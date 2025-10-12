@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Script to install Git hooks from the hooks/ directory to .git/hooks/
-
 HOOKS_DIR="hooks"
 GIT_HOOKS_DIR=".git/hooks"
 
