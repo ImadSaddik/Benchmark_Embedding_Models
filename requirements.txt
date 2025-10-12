@@ -1,0 +1,7 @@
+PyMuPDF==1.26.4
+google-genai==1.31.0
+python-dotenv==1.1.1
+docling==2.55.1
+docling-core==2.48.4
+transformers==4.57.0
+tqdm==4.67.1
