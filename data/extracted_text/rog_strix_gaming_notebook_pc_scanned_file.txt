@@ -1,0 +1,301 @@
+E25294
+REVISED EDITION V5 / DECEMBER 2024
+
+ROG STRIX
+GAMING NOTEBOOK PC
+
+COPYRIGHT INFORMATION
+No part of this manual, including the products and software described in it, may be reproduced, transmitted, transcribed, stored in a retrieval system, or translated into any language in any form or by any means, except documentation kept by the purchaser for backup purposes, without the express written permission of ASUSTeK COMPUTER INC. (“ASUS”).
+
+ASUS PROVIDES THIS MANUAL “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL ASUS, ITS DIRECTORS, OFFICERS, EMPLOYEES OR AGENTS BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES (INCLUDING DAMAGES FOR LOSS OF PROFITS, LOSS OF BUSINESS, LOSS OF USE OR DATA, INTERRUPTION OF BUSINESS AND THE LIKE), EVEN IF ASUS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES ARISING FROM ANY DEFECT OR ERROR IN THIS MANUAL OR PRODUCT.
+
+Products and corporate names appearing in this manual may or may not be registered trademarks or copyrights of their respective companies, and are used only for identification or explanation and to the owners’ benefit, without intent to infringe.
+
+SPECIFICATIONS AND INFORMATION CONTAINED IN THIS MANUAL ARE FURNISHED FOR INFORMATIONAL USE ONLY, AND ARE SUBJECT TO CHANGE AT ANY TIME WITHOUT NOTICE, AND SHOULD NOT BE CONSTRUED AS A COMMITMENT BY ASUS. ASUS ASSUMES NO RESPONSIBILITY OR LIABILITY FOR ANY ERRORS OR INACCURACIES THAT MAY APPEAR IN THIS MANUAL, INCLUDING THE PRODUCTS AND SOFTWARE DESCRIBED IN IT.
+
+Copyright © 2024 ASUSTeK COMPUTER INC. All Rights Reserved.
+
+LIMITATION OF LIABILITY
+Circumstances may arise where because of a default on ASUS’ part or other liability, you are entitled to recover damages from ASUS. In each such instance, regardless of the basis on which you are entitled to claim damages from ASUS, ASUS is liable for no more than damages for bodily injury (including death) and damage to real property and tangible personal property; or any other actual and direct damages resulted from omission or failure of performing legal duties under this Warranty Statement, up to the listed contract price of each product.
+
+ASUS will only be responsible for or indemnify you for loss, damages or claims based in contract, tort or infringement under this Warranty Statement.
+
+This limit also applies to ASUS’ suppliers and its reseller. It is the maximum for which ASUS, its suppliers, and your reseller are collectively responsible.
+
+UNDER NO CIRCUMSTANCES IS ASUS LIABLE FOR ANY OF THE FOLLOWING: (1) THIRD-PARTY CLAIMS AGAINST YOU FOR DAMAGES; (2) LOSS OF, OR DAMAGE TO, YOUR RECORDS OR DATA; OR (3) SPECIAL, INCIDENTAL, OR INDIRECT DAMAGES OR FOR ANY ECONOMIC CONSEQUENTIAL DAMAGES (INCLUDING LOST PROFITS OR SAVINGS), EVEN IF ASUS, ITS SUPPLIERS OR YOUR RESELLER IS INFORMED OF THEIR POSSIBILITY.
+
+SERVICE AND SUPPORT
+Visit our multi-language website at https://www.asus.com/support/.
+
+MyASUS offers a variety of support features including troubleshooting, products performance optimization, ASUS software integration, and helps you to organize personal desktop and increase storage space. For more details, please visit https://www.asus.com/support/FAQ/1038301/.
+
+Table of Contents
+
+About this manual....................................................................................................7
+    Conventions used in this manual .........................................................................8
+    Icons ....................................................................................................................8
+    Typography.........................................................................................................8
+Safety precautions....................................................................................................9
+    Using your Notebook PC.......................................................................................9
+    Caring for your Notebook PC ..............................................................................10
+    Proper disposal..................................................................................................11
+    Battery safety information..................................................................................12
+
+Chapter 1: Hardware Setup
+Getting to know your Notebook PC .........................................................................16
+    Front View.........................................................................................................16
+    Bottom View .....................................................................................................22
+    Right View.........................................................................................................24
+    Left View...........................................................................................................25
+
+Chapter 2: Using your Notebook PC
+Getting started ........................................................................................................30
+    Charge your Notebook PC..................................................................................30
+    Lift to open the display panel .............................................................................33
+    Press the power button......................................................................................33
+Using the touchpad.................................................................................................34
+Using the keyboard.................................................................................................41
+    Function keys ...................................................................................................41
+    Hot Keys ...........................................................................................................43
+    Windows keys ...................................................................................................43
+    Using the NumberPad .......................................................................................44
+
+Chapter 3: Working with Windows
+Starting for the first time...........................................................................................46
+Start menu ..............................................................................................................47
+Windows apps ........................................................................................................49
+    Working with Windows apps..............................................................................50
+    Customizing Windows apps ..............................................................................50
+Task view..................................................................................................................52
+Widgets ..................................................................................................................53
+Snap feature ............................................................................................................55
+    Snap hotspots...................................................................................................55
+Action Center ..........................................................................................................57
+GameVisual .............................................................................................................59
+Setting the OLED display.........................................................................................61
+    Setting the Dark Mode ......................................................................................61
+    Turning off the display when not in use..............................................................63
+    Adjusting display brightness..............................................................................65
+    Auto-hide the taskbar.........................................................................................67
+    Setting the Dark Mode in Microsoft Office..........................................................69
+Other keyboard shortcuts .......................................................................................70
+Connecting to wireless networks ............................................................................72
+    Wi-Fi .................................................................................................................72
+    Bluetooth..........................................................................................................73
+    Airplane mode...................................................................................................74
+Connecting to wired networks..................................................................................75
+Turning your Notebook PC off...................................................................................77
+Putting your Notebook PC to sleep ..........................................................................78
+Putting your Notebook PC into the lowest power mode...........................................79
+
+Chapter 4: Power-On Self-Test (POST)
+The Power-On Self-Test (POST) ................................................................................82
+    Using POST to access BIOS and Troubleshoot....................................................82
+BIOS .........................................................................................................................82
+    Accessing BIOS .................................................................................................82
+Recovering your system...........................................................................................83
+    Performing a recovery option.............................................................................84
+
+Tips and FAQs
+Useful tips for your Notebook PC ............................................................................88
+Hardware FAQs........................................................................................................90
+Software FAQs..........................................................................................................93
+
+Appendices
+Legal information ....................................................................................................96
+    Access Advance Patent Notice...........................................................................96
+Regulatory statements ............................................................................................97
+    Federal Communications Commission Interference Statement ..........................97
+    FCC RF Exposure Information..............................................................................98
+    FCC RF Caution Statement..................................................................................98
+    FCC 5.925-7.125 GHz Caution Statement ............................................................98
+    ISED 5.925-7.125 GHz Caution Statement ..........................................................98
+    Radio Frequency (RF) Exposure Information.......................................................99
+    Informations concernant l’exposition aux fréquences radio (RF) ......................99
+    Caution..............................................................................................................99
+    Mise en garde....................................................................................................99
+    Compliance Statement of Innovation, Science and Economic
+    Development Canada (ISED) ..........................................................................100
+    Déclaration de conformité de Innovation, Sciences et Développement
+    économique Canada (ISED) ............................................................................100
+    Radiation Exposure Statement..........................................................................101
+    Déclaration d'exposition aux radiations..............................................................101
+    UL Safety Notices....................................................................................................102
+    Power Safety Requirement.....................................................................................103
+    TV Notices ..............................................................................................................103
+    Macrovision Corporation Product Notice.................................................................103
+    Prevention of Hearing Loss.....................................................................................103
+    Nordic Lithium Cautions (for lithium-ion batteries)..................................................104
+    Declaration of Compliance for Product Environmental Regulation...........................105
+    EU REACH and Article 33........................................................................................105
+    EU RoHS.................................................................................................................105
+    Japan JIS-C-0950 Material Declarations ..................................................................105
+    India RoHS..............................................................................................................105
+    Coating Notice.........................................................................................................106
+    ASUS Recycling/Takeback Services..........................................................................106
+    Rechargeable Battery Recycling Service in North America......................................106
+    Vietnam RoHS ........................................................................................................106
+    Regional notice for Singapore ................................................................................106
+    Ecodesign Directive................................................................................................107
+    ENERGY STAR® Qualified Product ..........................................................................107
+    EPEAT Registered Products ....................................................................................108
+    Notices for removable batteries..............................................................................108
+    Avis concernant les batteries remplaçables.............................................................108
+    Wi-Fi Network Notice .............................................................................................108
+    Simplified EU Declaration of Conformity..................................................................109
+    Simplified UKCA Declaration of Conformity..............................................................109
+
+About this manual
+This manual provides information about the hardware and software features of your Notebook PC, organized through the following chapters:
+
+Chapter 1: Hardware Setup
+This chapter details the hardware components of your Notebook PC.
+
+Chapter 2: Using your Notebook PC
+This chapter shows you how to use the different parts of your Notebook PC.
+
+Chapter 3: Working with Windows
+This chapter provides an overview of using Windows in your Notebook PC.
+
+Chapter 4: Power-On Self-Test (POST)
+This chapter shows you how to use POST to change the settings of your Notebook PC.
+
+Tips and FAQs
+This section presents some recommended tips, hardware FAQs, and software FAQs you can refer to for maintaining and fixing common issues with your Notebook PC.
+
+Appendices
+This section includes notices and safety statements for your Notebook PC.
+
+Conventions used in this manual
+To highlight key information in this manual, some text are presented as follows:
+
+IMPORTANT! This message contains vital information that must be followed to complete a task.
+
+NOTE: This message contains additional information and tips that can help complete tasks.
+
+WARNING! This message contains important information that must be followed to keep you safe while performing tasks and prevent damage to your Notebook PC’s data and components.
+
+Icons
+The icons below indicate the devices you can use for completing a series of tasks or procedures on your Notebook PC.
+
+An icon of a touchpad is shown. = Use the touchpad.
+An icon of a keyboard is shown. = Use the keyboard.
+
+Typography
+**Bold** = This indicates a menu or an item that must be selected.
+*Italic* = This indicates sections that you can refer to in this manual.
+
+Safety precautions
+Using your Notebook PC
+
+This Notebook PC should only be used in environments with ambient temperatures between 5°C (41°F) and 35°C (95°F).
+
+Refer to the rating label on the bottom of your Notebook PC and ensure that your power adapter complies with this rating.
+
+Your Notebook PC can get warm to hot while in use or while charging the battery pack. Do not leave your Notebook PC on your lap or near any part of your body to prevent injury from heat. When working on your Notebook PC, do not place it on surfaces that can block the vents.
+
+Do not use damaged power cords, accessories, and other peripherals with your Notebook PC.
+
+While powered on, ensure that you do not carry or cover your Notebook PC with any materials that can reduce air circulation.
+
+Do not place your Notebook PC on uneven or unstable work surfaces.
+
+You can send your Notebook PC through x-ray machines (used on items placed on conveyor belts), but do not expose them to magnetic detectors and wands.
+
+Contact your airline provider to learn about related in-flight services that can be used and restrictions that must be followed when using your Notebook PC in-flight.
+
+Caring for your Notebook PC
+
+Disconnect the AC power and remove the battery pack (if applicable) before cleaning your Notebook PC. Use a clean cellulose sponge or chamois cloth dampened with warm water. Remove any extra moisture from your Notebook PC using a dry cloth. Keep any liquids from entering the chassis or keyboard gap to prevent short circuit or corrosion.
+
+Do not use strong solvents such as alcohol, thinners, benzene, or other chemicals on or near your Notebook PC.
+
+Do not place objects on top of your Notebook PC.
+
+Do not expose your Notebook PC to strong magnetic or electrical fields.
+
+Do not use or expose your Notebook PC near liquids, rain, or moisture.
+
+Do not expose your Notebook PC to dusty environments.
+
+Do not use your Notebook PC near gas leaks.
+
+Do not place active electronic devices close to your Notebook PC to avoid electromagnetic wave interference to the display panel.
+
+Do not use this Notebook PC for cryptocurrency mining (consuming a vast amount of electricity and time to gain convertible virtual currency) and/or related activities.
+
+Proper disposal
+
+Do not throw your Notebook PC in municipal waste. This product has been designed to enable proper reuse of parts and recycling. The symbol of the crossed out wheeled bin indicates that the product (electrical, electronic equipment and mercury-containing button cell battery) should not be placed in municipal waste. Check local regulations for disposal of electronic products.
+
+Do not throw the battery in municipal waste. The symbol of the crossed out wheeled bin indicates that the battery should not be placed in municipal waste.
+
+Battery safety information
+
+Battery protection
+*   Frequently charging a battery under high voltage may shorten the battery life. To protect the battery, once the battery is fully charged, the system may stop charging when the battery power is between 90% and 100%.
+    NOTE: The level at which the battery resumes charging is usually set between 90% and 99%. The actual value may vary by model.
+*   Charging or storing a battery in high ambient temperatures may result in permanent damage to the battery power capacity and rapidly shorten battery life. If the battery temperature is too high, the system may reduce the battery power charging capacity or even stop charging to protect the battery.
+*   Battery power capacity may drop even when your device is powered off and disconnected from the AC power. This is normal as the system still draws a small amount of power from the battery.
+
+Standard battery care
+*   If you are not using your device for a long period of time, ensure to charge the battery power to 50% then power off your device and disconnect the AC power adapter. Recharge the battery power to 50% every three months to avoid over-discharging and prevent damage to the battery.
+*   Avoid charging the battery at high voltage for a prolonged period of time to extend the battery life. If you are constantly using AC power for your device, ensure to discharge the battery power to 50% at least once every two weeks. You can also adjust the settings from Battery Health Charging in MyASUS to help extend the battery life.
+*   It is recommended to store your battery at temperatures between 5°C (41°F) and 35°C (95°F) with the battery power at 50%. You can also adjust the settings from Battery Health Charging in MyASUS to help extend the battery life.
+*   Do not leave your battery in damp environments. Exposure to damp environments may increase the battery over-discharging rate. Low temperature environment may damage the chemicals inside the battery while high temperature or overheating may result in a risk of explosion.
+*   Do not place your device or battery pack near radiators, fireplaces, furnaces, heaters, or any sources of heat with temperature exceeding 60°C (140°F). High temperature surrounding environment may result in an explosion or leakage that may cause fire.
+
+Chapter 1:
+Hardware Setup
+
+Getting to know your Notebook PC
+Front View
+
+NOTE: The keyboard’s layout may vary per region or country. The front view may also vary in appearance depending on the Notebook PC model.
+
+A diagram shows the front view of an open ROG Strix gaming laptop. It is a line drawing with several parts of the laptop numbered with circular callouts.
+
+1.  **Array microphones**
+    The array microphones feature echo canceling, noise suppression, and beam forming functions for better voice recognition and audio recording.
+
+2.  **Camera indicator**
+    The camera indicator lights up when the built-in camera is in use.
+
+3.  **Camera**
+    The built-in camera allows you to take pictures or record videos using your Notebook PC.
+
+4.  **Display panel**
+    This high-definition display panel provides excellent viewing features for photos, videos, and other multimedia files on your Notebook PC.
+
+5.  **Status indicators**
+    The status indicators help identify the current hardware status of your Notebook PC.
+
+    **Power indicator**
+    The power indicator lights up when the Notebook PC is turned on and blinks slowly when the Notebook PC is in sleep mode.
+
+    **Two-color battery charge indicator**
+    The two-color LED provides a visual indication of the battery’s charge status. Refer to the following table for details:
+
+Description of a table about the Two-color battery charge indicator. The table has two columns: "Color" and "Status".
+*   **Color:** Solid White
+    **Status:** The Notebook PC is plugged to a power source and the battery power is 100%.
+*   **Color:** Solid Orange
+    **Status:** The Notebook PC is plugged to a power source, charging its battery, and the battery power is between 0% and 99%.
+*   **Color:** Blinking Orange
+    **Status:** The Notebook PC is running on battery mode and the battery power is less than 10%.
+*   **Color:** Lights off
+    **Status:** The Notebook PC is running on battery mode and the battery power is between 10% to 100%.
+
+**Drive activity indicator**
+This indicator lights up when your Notebook PC is accessing the internal storage drives.
+
+6.  **Capital lock indicator**
+    This indicator lights up when the capital lock function is activated. Using capital lock allows you to type capitalized letters (such as A, B, C) using your Notebook PC’s keyboard.
+
+7.  **Power button**
+    Press the power button to turn your Notebook PC on or off. You can also use the power button to put your Notebook PC to sleep or hibernate mode and wake it up from sleep or hibernate mode.
+    In the event that your Notebook PC becomes unresponsive, press and hold the power button for at least ten (10) seconds until your Notebook PC shuts down.
+
+8.  **Keyboard**
+    The keyboard provides full-sized QWERTY keys with a comfortable travel depth for typing. It also enables you to use the function keys, allows quick access to Windows, and controls other multimedia functions.
+    NOTE: The keyboard layout differs by model or territory.
