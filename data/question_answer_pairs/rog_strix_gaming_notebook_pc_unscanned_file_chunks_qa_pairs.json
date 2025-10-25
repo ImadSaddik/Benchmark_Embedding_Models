@@ -1,0 +1,1066 @@
+[
+	{
+		"chunk_id": 0,
+		"question": "What is the product type mentioned in the text?"
+	},
+	{
+		"chunk_id": 0,
+		"question": "What is the revision number and date for this edition?"
+	},
+	{
+		"chunk_id": 0,
+		"question": "What is the product series or brand identified?"
+	},
+	{
+		"chunk_id": 0,
+		"question": "What is the document or model number provided?"
+	},
+	{
+		"chunk_id": 1,
+		"question": "What actions are prohibited regarding the manual without express written permission from ASUSTeK COMPUTER INC.?"
+	},
+	{
+		"chunk_id": 1,
+		"question": "What is the only exception to the rule against reproducing or transmitting the manual without ASUS's permission?"
+	},
+	{
+		"chunk_id": 1,
+		"question": "What kind of warranties, express or implied, does ASUS provide for the manual?"
+	},
+	{
+		"chunk_id": 1,
+		"question": "What types of damages does ASUS disclaim liability for in relation to defects or errors in the manual or product?"
+	},
+	{
+		"chunk_id": 1,
+		"question": "For what purpose are product and corporate names used in the manual?"
+	},
+	{
+		"chunk_id": 1,
+		"question": "Are the specifications and information provided in the manual subject to change?"
+	},
+	{
+		"chunk_id": 1,
+		"question": "Does ASUS assume responsibility for any errors or inaccuracies found in the manual?"
+	},
+	{
+		"chunk_id": 1,
+		"question": "Who holds the copyright for the manual and in what year was it issued?"
+	},
+	{
+		"chunk_id": 2,
+		"question": "What types of damages is ASUS liable for when a default or other liability arises?"
+	},
+	{
+		"chunk_id": 2,
+		"question": "What is the maximum limit for damages that ASUS is liable for in each instance?"
+	},
+	{
+		"chunk_id": 2,
+		"question": "On what legal bases will ASUS be responsible for loss, damages, or claims under the Warranty Statement?"
+	},
+	{
+		"chunk_id": 2,
+		"question": "To whom does ASUS's limit of liability apply collectively?"
+	},
+	{
+		"chunk_id": 2,
+		"question": "Under what circumstances is ASUS explicitly not liable for damages?"
+	},
+	{
+		"chunk_id": 2,
+		"question": "Does ASUS take responsibility for lost profits or savings, even if informed of their possibility?"
+	},
+	{
+		"chunk_id": 3,
+		"question": "Where can users find multi-language support for ASUS products?"
+	},
+	{
+		"chunk_id": 3,
+		"question": "What is MyASUS and what are its primary functions?"
+	},
+	{
+		"chunk_id": 3,
+		"question": "What specific support features does MyASUS offer to users?"
+	},
+	{
+		"chunk_id": 3,
+		"question": "How can MyASUS help users optimize their product performance and manage their desktop?"
+	},
+	{
+		"chunk_id": 3,
+		"question": "Where can one find a detailed FAQ about MyASUS?"
+	},
+	{
+		"chunk_id": 4,
+		"question": "What information can be found in the 'About this manual' section?"
+	},
+	{
+		"chunk_id": 4,
+		"question": "What safety precautions are outlined for using, caring for, and disposing of the Notebook PC?"
+	},
+	{
+		"chunk_id": 4,
+		"question": "Where can I find information about the front, bottom, right, and left views of the Notebook PC?"
+	},
+	{
+		"chunk_id": 4,
+		"question": "What are the initial steps for getting started with the Notebook PC, including charging and powering it on?"
+	},
+	{
+		"chunk_id": 4,
+		"question": "How do I use the touchpad and the various keyboard functions, including Function keys, Hot Keys, Windows keys, and the NumberPad?"
+	},
+	{
+		"chunk_id": 4,
+		"question": "What sections cover working with Windows features like the Start menu, Windows apps, Task view, Widgets, and the Snap feature?"
+	},
+	{
+		"chunk_id": 4,
+		"question": "How can I adjust settings for the OLED display, such as Dark Mode, brightness, and taskbar visibility?"
+	},
+	{
+		"chunk_id": 4,
+		"question": "What methods are available for connecting the Notebook PC to wireless networks (Wi-Fi, Bluetooth, Airplane mode) and wired networks?"
+	},
+	{
+		"chunk_id": 4,
+		"question": "How do I turn off, put to sleep, or put the Notebook PC into the lowest power mode?"
+	},
+	{
+		"chunk_id": 4,
+		"question": "What is the Power-On Self-Test (POST) and how is it used to access BIOS or troubleshoot the system?"
+	},
+	{
+		"chunk_id": 4,
+		"question": "How can I perform a system recovery option for my Notebook PC?"
+	},
+	{
+		"chunk_id": 4,
+		"question": "Where can I find useful tips and frequently asked questions regarding the hardware and software of the Notebook PC?"
+	},
+	{
+		"chunk_id": 4,
+		"question": "What legal and regulatory statements are included in the appendices, such as FCC, ISED, and environmental regulations like RoHS and REACH?"
+	},
+	{
+		"chunk_id": 4,
+		"question": "What specific battery safety information is provided in the manual?"
+	},
+	{
+		"chunk_id": 4,
+		"question": "What are the proper disposal procedures for the Notebook PC and its components?"
+	},
+	{
+		"chunk_id": 5,
+		"question": "What information does Chapter 1: Hardware Setup provide?"
+	},
+	{
+		"chunk_id": 5,
+		"question": "What is the content of Chapter 2: Using your Notebook PC?"
+	},
+	{
+		"chunk_id": 5,
+		"question": "What does Chapter 3: Working with Windows cover?"
+	},
+	{
+		"chunk_id": 5,
+		"question": "What is the purpose of Chapter 4: Power-On Self-Test (POST)?"
+	},
+	{
+		"chunk_id": 5,
+		"question": "What kind of information can be found in the Tips and FAQs section?"
+	},
+	{
+		"chunk_id": 5,
+		"question": "What do the Appendices of the manual contain?"
+	},
+	{
+		"chunk_id": 6,
+		"question": "What is indicated by text presented as 'IMPORTANT!' in the manual?"
+	},
+	{
+		"chunk_id": 6,
+		"question": "What kind of information does a 'NOTE:' message provide in the manual?"
+	},
+	{
+		"chunk_id": 6,
+		"question": "What is the purpose of a 'WARNING!' message in this manual?"
+	},
+	{
+		"chunk_id": 6,
+		"question": "What device does an icon showing a touchpad represent for task completion?"
+	},
+	{
+		"chunk_id": 6,
+		"question": "What does an icon depicting a keyboard signify in the manual?"
+	},
+	{
+		"chunk_id": 6,
+		"question": "What does bold text indicate in the manual's typography?"
+	},
+	{
+		"chunk_id": 6,
+		"question": "What does italic text refer to in the conventions used in this manual?"
+	},
+	{
+		"chunk_id": 7,
+		"question": "What is the recommended ambient temperature range for using the Notebook PC?"
+	},
+	{
+		"chunk_id": 7,
+		"question": "What safety measure should be taken regarding the Notebook PC's power adapter?"
+	},
+	{
+		"chunk_id": 7,
+		"question": "Why should users avoid placing the Notebook PC on their lap or near their body while it is in use or charging?"
+	},
+	{
+		"chunk_id": 7,
+		"question": "What precautions should be taken to prevent blocking the vents of the Notebook PC?"
+	},
+	{
+		"chunk_id": 7,
+		"question": "Which types of power cords, accessories, and peripherals should not be used with the Notebook PC?"
+	},
+	{
+		"chunk_id": 7,
+		"question": "What should be avoided to ensure proper air circulation for the Notebook PC while it is powered on?"
+	},
+	{
+		"chunk_id": 7,
+		"question": "What types of surfaces should be avoided when placing the Notebook PC?"
+	},
+	{
+		"chunk_id": 7,
+		"question": "Can the Notebook PC be exposed to x-ray machines and magnetic detectors?"
+	},
+	{
+		"chunk_id": 7,
+		"question": "What steps should be taken to understand restrictions and services for using the Notebook PC during a flight?"
+	},
+	{
+		"chunk_id": 8,
+		"question": "What initial steps should be taken before cleaning a Notebook PC?"
+	},
+	{
+		"chunk_id": 8,
+		"question": "What materials are recommended for cleaning a Notebook PC, and what precaution should be taken with moisture?"
+	},
+	{
+		"chunk_id": 8,
+		"question": "Which strong solvents and chemicals are explicitly forbidden for use on or near a Notebook PC?"
+	},
+	{
+		"chunk_id": 8,
+		"question": "Why should a Notebook PC not be exposed to strong magnetic or electrical fields?"
+	},
+	{
+		"chunk_id": 8,
+		"question": "Why is it important to keep a Notebook PC away from liquids, rain, or moisture?"
+	},
+	{
+		"chunk_id": 8,
+		"question": "What kind of environment should be avoided to protect a Notebook PC from dust?"
+	},
+	{
+		"chunk_id": 8,
+		"question": "For what safety reason should a Notebook PC not be used near gas leaks?"
+	},
+	{
+		"chunk_id": 8,
+		"question": "What is the specific reason for not placing active electronic devices close to a Notebook PC?"
+	},
+	{
+		"chunk_id": 8,
+		"question": "Why is it advised not to place objects on top of a Notebook PC?"
+	},
+	{
+		"chunk_id": 8,
+		"question": "What particular activity is explicitly prohibited for this Notebook PC due to its high electricity and time consumption?"
+	},
+	{
+		"chunk_id": 9,
+		"question": "How should a Notebook PC be disposed of according to the provided text?"
+	},
+	{
+		"chunk_id": 9,
+		"question": "What is the reason for not disposing of a Notebook PC in municipal waste?"
+	},
+	{
+		"chunk_id": 9,
+		"question": "What does the symbol of the crossed out wheeled bin indicate regarding product disposal?"
+	},
+	{
+		"chunk_id": 9,
+		"question": "What types of items are specifically mentioned as being covered by the crossed out wheeled bin symbol?"
+	},
+	{
+		"chunk_id": 9,
+		"question": "What action should users take to ensure proper disposal of electronic products?"
+	},
+	{
+		"chunk_id": 9,
+		"question": "What is the proper disposal method for batteries, as indicated by the text?"
+	},
+	{
+		"chunk_id": 10,
+		"question": "How does frequent high-voltage charging impact battery life, and how does the system mitigate this when the battery is fully charged?"
+	},
+	{
+		"chunk_id": 10,
+		"question": "What are the negative effects of charging or storing a battery in high ambient temperatures?"
+	},
+	{
+		"chunk_id": 10,
+		"question": "Is it normal for a battery to lose power even when a device is turned off and unplugged from AC power?"
+	},
+	{
+		"chunk_id": 10,
+		"question": "What steps should be taken to properly prepare a battery for a long period of disuse?"
+	},
+	{
+		"chunk_id": 10,
+		"question": "What care instructions are provided for users who constantly operate their device on AC power to extend battery life?"
+	},
+	{
+		"chunk_id": 10,
+		"question": "What is the recommended temperature range and charge level for optimal battery storage?"
+	},
+	{
+		"chunk_id": 10,
+		"question": "What are the potential risks of exposing a battery to damp environments or extreme temperatures (low or high)?"
+	},
+	{
+		"chunk_id": 10,
+		"question": "What maximum temperature should heat sources near a device or battery pack not exceed, and what are the associated dangers?"
+	},
+	{
+		"chunk_id": 10,
+		"question": "How can adjusting settings in MyASUS Battery Health Charging help extend battery life?"
+	},
+	{
+		"chunk_id": 11,
+		"question": "What advanced features do the array microphones provide?"
+	},
+	{
+		"chunk_id": 11,
+		"question": "When does the camera indicator light up on the Notebook PC?"
+	},
+	{
+		"chunk_id": 11,
+		"question": "What is the primary function of the built-in camera?"
+	},
+	{
+		"chunk_id": 11,
+		"question": "What kind of viewing experience does the high-definition display panel offer?"
+	},
+	{
+		"chunk_id": 11,
+		"question": "How can the power indicator distinguish between the Notebook PC being turned on and being in sleep mode?"
+	},
+	{
+		"chunk_id": 11,
+		"question": "What does a solid white light on the two-color battery charge indicator mean?"
+	},
+	{
+		"chunk_id": 11,
+		"question": "What does a blinking orange light on the two-color battery charge indicator indicate about the battery's status?"
+	},
+	{
+		"chunk_id": 11,
+		"question": "When does the drive activity indicator illuminate?"
+	},
+	{
+		"chunk_id": 11,
+		"question": "What is the function of the capital lock indicator?"
+	},
+	{
+		"chunk_id": 11,
+		"question": "Besides turning the Notebook PC on or off, what other actions can be performed using the power button?"
+	},
+	{
+		"chunk_id": 11,
+		"question": "How can a user force a shutdown of the Notebook PC if it becomes unresponsive?"
+	},
+	{
+		"chunk_id": 11,
+		"question": "What are the main functionalities offered by the keyboard?"
+	},
+	{
+		"chunk_id": 11,
+		"question": "On selected models, what dual functionality does the Touchpad/NumberPad provide?"
+	},
+	{
+		"chunk_id": 12,
+		"question": "What safety precautions should be taken regarding the heat generated by the Notebook PC during use or charging?"
+	},
+	{
+		"chunk_id": 12,
+		"question": "What are the important notes regarding the Notebook PC's battery pack?"
+	},
+	{
+		"chunk_id": 12,
+		"question": "Why is it important to purchase components from authorized retailers for the Notebook PC?"
+	},
+	{
+		"chunk_id": 12,
+		"question": "What is the primary function of the air vents on the Notebook PC?"
+	},
+	{
+		"chunk_id": 12,
+		"question": "What components are protected by the bottom cover of the Notebook PC?"
+	},
+	{
+		"chunk_id": 12,
+		"question": "Which type of SSD is not supported by the M.2 2280 slot found under the bottom cover?"
+	},
+	{
+		"chunk_id": 12,
+		"question": "Where can users find additional details and assistance for product service, disassembly, or assembly?"
+	},
+	{
+		"chunk_id": 12,
+		"question": "How are the audio features of the built-in speakers controlled on the Notebook PC?"
+	},
+	{
+		"chunk_id": 13,
+		"question": "What type of USB port is located on the right side of the laptop?"
+	},
+	{
+		"chunk_id": 13,
+		"question": "What is the maximum data transfer rate of the USB 3.2 Gen 2 port?"
+	},
+	{
+		"chunk_id": 13,
+		"question": "Is the USB 3.2 Gen 2 port backward compatible?"
+	},
+	{
+		"chunk_id": 13,
+		"question": "What is the function of the air vents on the Notebook PC?"
+	},
+	{
+		"chunk_id": 13,
+		"question": "What is the potential consequence of blocking the laptop's air vents?"
+	},
+	{
+		"chunk_id": 13,
+		"question": "What types of objects are warned against blocking the air vents?"
+	},
+	{
+		"chunk_id": 14,
+		"question": "What is the primary function of the air vents on the left side of the Notebook PC?"
+	},
+	{
+		"chunk_id": 14,
+		"question": "What warning is given regarding the air vents to prevent overheating?"
+	},
+	{
+		"chunk_id": 14,
+		"question": "What is the purpose of the Power (DC) input port, and which power adapter should be used?"
+	},
+	{
+		"chunk_id": 14,
+		"question": "What specific warning is associated with the LAN port regarding power over Ethernet (PoE)?"
+	},
+	{
+		"chunk_id": 14,
+		"question": "What capabilities does the HDMI output port provide?"
+	},
+	{
+		"chunk_id": 14,
+		"question": "What are the main features and transfer rate of the Thunderbolt\u2122 4 port?"
+	},
+	{
+		"chunk_id": 14,
+		"question": "What display technologies are compatible with the Thunderbolt\u2122 4 port via Intel\u00ae Thunderbolt\u2122 technology?"
+	},
+	{
+		"chunk_id": 14,
+		"question": "What are the three main functionalities of the USB 3.2 Gen 2 Type-C\u00ae/DisplayPort/Power Delivery combo port?"
+	},
+	{
+		"chunk_id": 14,
+		"question": "What are the power requirements for charging the Notebook PC using the USB Power Delivery combo port?"
+	},
+	{
+		"chunk_id": 14,
+		"question": "What types of audio devices can be connected to the Headphone/Headset/Microphone jack?"
+	},
+	{
+		"chunk_id": 15,
+		"question": "What are the three steps to connect the AC power adapter and charge the Notebook PC?"
+	},
+	{
+		"chunk_id": 15,
+		"question": "How long should the Notebook PC be charged for its first use in battery mode?"
+	},
+	{
+		"chunk_id": 15,
+		"question": "Does the appearance of the power adapter always remain the same, or can it vary?"
+	},
+	{
+		"chunk_id": 15,
+		"question": "What are the input voltage, input frequency, and possible rating output current and voltage specifications for the AC/DC power adapter?"
+	},
+	{
+		"chunk_id": 15,
+		"question": "What are the input voltage, input frequency, rating output current, and rating output voltage for the USB Power Delivery power adapter?"
+	},
+	{
+		"chunk_id": 15,
+		"question": "What important check should be performed between the Notebook PC and its power adapter regarding rating labels?"
+	},
+	{
+		"chunk_id": 15,
+		"question": "What is a crucial step to ensure before turning on the Notebook PC for the first time?"
+	},
+	{
+		"chunk_id": 15,
+		"question": "What safety precautions are advised when plugging the power cord into a wall socket?"
+	},
+	{
+		"chunk_id": 15,
+		"question": "Where should the power socket outlet be located in relation to the Notebook PC?"
+	},
+	{
+		"chunk_id": 15,
+		"question": "How should a user disconnect the Notebook PC from its main power supply?"
+	},
+	{
+		"chunk_id": 15,
+		"question": "Who is authorized to remove the battery inside the Notebook PC if it is non-removable?"
+	},
+	{
+		"chunk_id": 15,
+		"question": "What are the potential risks if the Notebook PC's battery is removed or disassembled?"
+	},
+	{
+		"chunk_id": 15,
+		"question": "What risk is associated with replacing the battery with an incorrect type?"
+	},
+	{
+		"chunk_id": 15,
+		"question": "What specific action is warned against concerning the disposal of the Notebook PC's battery?"
+	},
+	{
+		"chunk_id": 15,
+		"question": "Why should a user never attempt to short-circuit the Notebook PC's battery?"
+	},
+	{
+		"chunk_id": 15,
+		"question": "For non-removable batteries, what actions related to disassembly and reassembly are prohibited?"
+	},
+	{
+		"chunk_id": 15,
+		"question": "What immediate action should be taken if battery leakage is detected?"
+	},
+	{
+		"chunk_id": 15,
+		"question": "How should the Notebook PC's battery and its components be handled at the end of their life?"
+	},
+	{
+		"chunk_id": 15,
+		"question": "What safety measure should be taken to keep the battery and small components away from children?"
+	},
+	{
+		"chunk_id": 16,
+		"question": "How do you open the display panel of the laptop?"
+	},
+	{
+		"chunk_id": 16,
+		"question": "What is the recommended minimum angle for the display panel when the laptop is in use, and why?"
+	},
+	{
+		"chunk_id": 16,
+		"question": "Where is the power button located on the laptop?"
+	},
+	{
+		"chunk_id": 16,
+		"question": "How do you turn on the laptop?"
+	},
+	{
+		"chunk_id": 17,
+		"question": "How do you activate the touchpad's pointer and move it on the screen?"
+	},
+	{
+		"chunk_id": 17,
+		"question": "What are the actions performed by tapping once and double-tapping with one finger on the touchpad?"
+	},
+	{
+		"chunk_id": 17,
+		"question": "How do you perform a drag and drop operation using a single finger on the touchpad?"
+	},
+	{
+		"chunk_id": 17,
+		"question": "Which areas of the touchpad correspond to the left and right mouse button functions?"
+	},
+	{
+		"chunk_id": 17,
+		"question": "What gesture allows you to simulate a right-click using two fingers?"
+	},
+	{
+		"chunk_id": 17,
+		"question": "How do you scroll vertically and horizontally using two fingers on the touchpad?"
+	},
+	{
+		"chunk_id": 17,
+		"question": "Describe the two-finger gestures for zooming in and zooming out."
+	},
+	{
+		"chunk_id": 17,
+		"question": "How is a drag and drop action performed using two fingers on the touchpad?"
+	},
+	{
+		"chunk_id": 17,
+		"question": "What is the function of tapping three fingers simultaneously on the touchpad?"
+	},
+	{
+		"chunk_id": 17,
+		"question": "How can you switch between multiple open applications using a three-finger gesture?"
+	},
+	{
+		"chunk_id": 17,
+		"question": "What three-finger gesture is used to show an overview of all currently opened apps?"
+	},
+	{
+		"chunk_id": 17,
+		"question": "How do you display the desktop using a three-finger gesture?"
+	},
+	{
+		"chunk_id": 17,
+		"question": "What action is triggered by tapping four fingers on the touchpad?"
+	},
+	{
+		"chunk_id": 18,
+		"question": "What is the function of FN + F1 on the Notebook PC?"
+	},
+	{
+		"chunk_id": 18,
+		"question": "How do you adjust the brightness of the backlit keyboard using function keys?"
+	},
+	{
+		"chunk_id": 18,
+		"question": "Which key combination is used to toggle the Aura lighting effect?"
+	},
+	{
+		"chunk_id": 18,
+		"question": "What command does FN + F5 trigger?"
+	},
+	{
+		"chunk_id": 18,
+		"question": "How can you activate the screen capture tool using a function key combination?"
+	},
+	{
+		"chunk_id": 18,
+		"question": "Which function keys are used to decrease and increase the display brightness?"
+	},
+	{
+		"chunk_id": 18,
+		"question": "What is the purpose of FN + F9, and what is an important note regarding its use?"
+	},
+	{
+		"chunk_id": 18,
+		"question": "How do you enable or disable the touchpad using the keyboard?"
+	},
+	{
+		"chunk_id": 18,
+		"question": "What happens when you press FN + F11?"
+	},
+	{
+		"chunk_id": 18,
+		"question": "What is the effect of enabling Airplane mode using FN + F12?"
+	},
+	{
+		"chunk_id": 18,
+		"question": "Which key combination displays the drop-down menu?"
+	},
+	{
+		"chunk_id": 18,
+		"question": "How are page up, page down, home, and end functions simulated using the FN key with arrow keys?"
+	},
+	{
+		"chunk_id": 18,
+		"question": "What is the function of FN + Windows key?"
+	},
+	{
+		"chunk_id": 19,
+		"question": "What functionalities can be assigned to the programmable Hot Keys?"
+	},
+	{
+		"chunk_id": 19,
+		"question": "How can users program their Hot Keys?"
+	},
+	{
+		"chunk_id": 19,
+		"question": "What is the default function of the M1 key?"
+	},
+	{
+		"chunk_id": 19,
+		"question": "Which Hot Key is used to toggle the fan mode?"
+	},
+	{
+		"chunk_id": 19,
+		"question": "What action does pressing the M5 key perform by default?"
+	},
+	{
+		"chunk_id": 19,
+		"question": "Which Hot Key controls the microphone function?"
+	},
+	{
+		"chunk_id": 20,
+		"question": "What are the two special Windows keys found on a Notebook PC's keyboard?"
+	},
+	{
+		"chunk_id": 20,
+		"question": "What is the function of the Windows logo key?"
+	},
+	{
+		"chunk_id": 20,
+		"question": "How can the drop-down menu be displayed using a special Windows key or key combination?"
+	},
+	{
+		"chunk_id": 20,
+		"question": "What does the Context menu key do?"
+	},
+	{
+		"chunk_id": 21,
+		"question": "How do you activate or deactivate the number keys on the NumberPad?"
+	},
+	{
+		"chunk_id": 21,
+		"question": "What is the purpose of the NUMLK button on the NumberPad?"
+	},
+	{
+		"chunk_id": 21,
+		"question": "Does the layout of the NumberPad affect its operational procedures?"
+	},
+	{
+		"chunk_id": 21,
+		"question": "What symbols and numbers are typically present on the NumberPad layout?"
+	},
+	{
+		"chunk_id": 22,
+		"question": "What is the initial process a user goes through when starting a Notebook PC for the first time?"
+	},
+	{
+		"chunk_id": 22,
+		"question": "What is the very first step a user needs to take to begin the setup of a new Notebook PC?"
+	},
+	{
+		"chunk_id": 22,
+		"question": "What configuration options are presented to the user after the setup screen appears?"
+	},
+	{
+		"chunk_id": 22,
+		"question": "What are the five basic items that users are instructed to configure during the Windows setup?"
+	},
+	{
+		"chunk_id": 22,
+		"question": "Why is it important to keep the Notebook PC powered on during the Windows setup process?"
+	},
+	{
+		"chunk_id": 22,
+		"question": "What is the final outcome after the setup process is complete?"
+	},
+	{
+		"chunk_id": 23,
+		"question": "What is the primary purpose of the Start menu on a Notebook PC?"
+	},
+	{
+		"chunk_id": 23,
+		"question": "What are the two main ways to launch the Start menu?"
+	},
+	{
+		"chunk_id": 23,
+		"question": "What common activities can a user perform using the Start menu?"
+	},
+	{
+		"chunk_id": 23,
+		"question": "How can a user open programs or Windows apps from the Start menu using a mouse or keyboard?"
+	},
+	{
+		"chunk_id": 23,
+		"question": "Where can a user find options to change account settings, lock the PC, or sign out from their account within the Start menu?"
+	},
+	{
+		"chunk_id": 23,
+		"question": "What section of the Start menu displays a full list of all programs and folders in alphabetical order?"
+	},
+	{
+		"chunk_id": 23,
+		"question": "From which part of the Start menu can a user shut down, restart, or put their Notebook PC to sleep?"
+	},
+	{
+		"chunk_id": 24,
+		"question": "What are Windows apps and where are they typically displayed?"
+	},
+	{
+		"chunk_id": 24,
+		"question": "What is a prerequisite for fully launching some Windows apps?"
+	},
+	{
+		"chunk_id": 24,
+		"question": "How can a user launch Windows apps from the Start menu using a mouse?"
+	},
+	{
+		"chunk_id": 24,
+		"question": "What are the keyboard steps for launching a Windows app from the Start menu?"
+	},
+	{
+		"chunk_id": 24,
+		"question": "How do you rearrange Windows apps on the Start menu?"
+	},
+	{
+		"chunk_id": 24,
+		"question": "What are the different ways to unpin an app from the Start menu?"
+	},
+	{
+		"chunk_id": 24,
+		"question": "How can a user pin an app from the Start menu to the taskbar?"
+	},
+	{
+		"chunk_id": 24,
+		"question": "Describe the process for pinning an app from the 'All apps' list to the Start menu."
+	},
+	{
+		"chunk_id": 25,
+		"question": "What is the primary function of the Task view feature in Windows?"
+	},
+	{
+		"chunk_id": 25,
+		"question": "What are the two methods for launching Task view?"
+	},
+	{
+		"chunk_id": 25,
+		"question": "Which keyboard shortcut can be used to open Task view?"
+	},
+	{
+		"chunk_id": 25,
+		"question": "What visual elements are typically displayed in the Windows 11 Task View?"
+	},
+	{
+		"chunk_id": 26,
+		"question": "What is the purpose of Widgets in Windows 11?"
+	},
+	{
+		"chunk_id": 26,
+		"question": "What are the two ways to launch the Widgets panel?"
+	},
+	{
+		"chunk_id": 26,
+		"question": "How can a user customize the content that appears in the Widgets panel?"
+	},
+	{
+		"chunk_id": 26,
+		"question": "Which icon allows users to manage their interests within the Widgets panel?"
+	},
+	{
+		"chunk_id": 27,
+		"question": "What is the primary function of the Snap feature?"
+	},
+	{
+		"chunk_id": 27,
+		"question": "What are Snap hotspots used for in Windows?"
+	},
+	{
+		"chunk_id": 27,
+		"question": "How can an app be snapped to the screen using the drag and drop method?"
+	},
+	{
+		"chunk_id": 27,
+		"question": "What keyboard shortcut combination allows users to snap an application?"
+	},
+	{
+		"chunk_id": 27,
+		"question": "What types of applications are shown being used with the Snap feature in the example image?"
+	},
+	{
+		"chunk_id": 28,
+		"question": "What is the primary purpose of the Action Center in Windows 11?"
+	},
+	{
+		"chunk_id": 28,
+		"question": "What are the two main sections or features offered by the Action Center?"
+	},
+	{
+		"chunk_id": 28,
+		"question": "How can a user open the Quick Actions panel using a mouse?"
+	},
+	{
+		"chunk_id": 28,
+		"question": "What is the keyboard shortcut for launching the Quick Actions panel in Windows 11?"
+	},
+	{
+		"chunk_id": 28,
+		"question": "What types of controls and settings are typically found in the Quick Actions section?"
+	},
+	{
+		"chunk_id": 28,
+		"question": "How can a user access notifications in Windows 11 using a mouse?"
+	},
+	{
+		"chunk_id": 28,
+		"question": "What is the keyboard shortcut for opening the Notifications panel in Windows 11?"
+	},
+	{
+		"chunk_id": 28,
+		"question": "What additional information is displayed alongside app notifications when the Notifications panel is opened?"
+	},
+	{
+		"chunk_id": 29,
+		"question": "What is the primary purpose of ROG GameVisual?"
+	},
+	{
+		"chunk_id": 29,
+		"question": "Which specific color modes are mentioned within ROG GameVisual?"
+	},
+	{
+		"chunk_id": 29,
+		"question": "What certification is the Default mode compliant with for OLED and Nebula panels?"
+	},
+	{
+		"chunk_id": 29,
+		"question": "What is the benefit of using the Eyecare mode in ROG GameVisual?"
+	},
+	{
+		"chunk_id": 29,
+		"question": "What are some recommended tips to alleviate eye strain when using a display for long hours?"
+	},
+	{
+		"chunk_id": 29,
+		"question": "What potential health issues are associated with high energy blue light emission?"
+	},
+	{
+		"chunk_id": 29,
+		"question": "How much harmful blue light can the Blue light Filter reduce to avoid Computer Vision Syndrome (CVS)?"
+	},
+	{
+		"chunk_id": 30,
+		"question": "What is the primary purpose of adjusting the recommended settings for an ASUS Notebook PC's OLED display?"
+	},
+	{
+		"chunk_id": 30,
+		"question": "How can a user check or adjust the Dark Mode settings in Windows for their OLED display?"
+	},
+	{
+		"chunk_id": 30,
+		"question": "Where in Windows settings can a user configure the display to turn off automatically when not in use?"
+	},
+	{
+		"chunk_id": 30,
+		"question": "What recommendations are provided for display brightness and screensavers to extend the lifespan of an OLED display?"
+	},
+	{
+		"chunk_id": 30,
+		"question": "Why is it recommended to auto-hide the taskbar on an OLED display, and how is this setting accessed in Windows?"
+	},
+	{
+		"chunk_id": 30,
+		"question": "What steps should be followed to enable Dark Mode in Microsoft Office applications?"
+	},
+	{
+		"chunk_id": 31,
+		"question": "What is the function of pressing the Windows key alone?"
+	},
+	{
+		"chunk_id": 31,
+		"question": "Which keyboard shortcut launches the Action Center?"
+	},
+	{
+		"chunk_id": 31,
+		"question": "How can you quickly launch the desktop using a keyboard shortcut?"
+	},
+	{
+		"chunk_id": 31,
+		"question": "What is the keyboard shortcut for opening File Explorer?"
+	},
+	{
+		"chunk_id": 31,
+		"question": "How do you open the Settings panel using a keyboard shortcut?"
+	},
+	{
+		"chunk_id": 31,
+		"question": "Which keyboard shortcut is used to launch the Connect panel?"
+	},
+	{
+		"chunk_id": 31,
+		"question": "What shortcut activates the Lock screen?"
+	},
+	{
+		"chunk_id": 31,
+		"question": "How can you minimize all currently active windows using a keyboard shortcut?"
+	},
+	{
+		"chunk_id": 31,
+		"question": "Which keyboard shortcut launches the Search feature?"
+	},
+	{
+		"chunk_id": 31,
+		"question": "What shortcut is used to open the Project panel?"
+	},
+	{
+		"chunk_id": 31,
+		"question": "How do you open the Run window with a keyboard shortcut?"
+	},
+	{
+		"chunk_id": 31,
+		"question": "What keyboard shortcut opens Accessibility settings?"
+	},
+	{
+		"chunk_id": 31,
+		"question": "Which shortcut opens the context menu of the Start button?"
+	},
+	{
+		"chunk_id": 31,
+		"question": "How do you launch the magnifier icon and zoom in using a keyboard shortcut?"
+	},
+	{
+		"chunk_id": 31,
+		"question": "What keyboard shortcut is used to zoom out your screen?"
+	},
+	{
+		"chunk_id": 32,
+		"question": "What services can a user access using their Notebook PC's Wi-Fi connection?"
+	},
+	{
+		"chunk_id": 32,
+		"question": "What is an important condition to check before enabling Wi-Fi or Bluetooth on a Notebook PC?"
+	},
+	{
+		"chunk_id": 32,
+		"question": "What are the steps to connect a Notebook PC to a Wi-Fi network?"
+	},
+	{
+		"chunk_id": 32,
+		"question": "What might be required to activate a Wi-Fi connection?"
+	},
+	{
+		"chunk_id": 32,
+		"question": "What is the purpose of Bluetooth on a Notebook PC?"
+	},
+	{
+		"chunk_id": 32,
+		"question": "What must a user do to enable data transfers between their Notebook PC and other Bluetooth-enabled devices?"
+	},
+	{
+		"chunk_id": 32,
+		"question": "What are the steps to pair a Notebook PC with another Bluetooth-enabled device?"
+	},
+	{
+		"chunk_id": 32,
+		"question": "What input might be requested for some Bluetooth-enabled devices during the pairing process?"
+	},
+	{
+		"chunk_id": 32,
+		"question": "What is the function of Airplane mode on a Notebook PC?"
+	},
+	{
+		"chunk_id": 32,
+		"question": "How can a user turn Airplane mode on or off?"
+	},
+	{
+		"chunk_id": 32,
+		"question": "What should a user do to learn about using their Notebook PC in-flight while in Airplane mode?"
+	}
+]
