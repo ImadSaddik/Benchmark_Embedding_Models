@@ -5,3 +5,6 @@ docling==2.55.1
 docling-core==2.48.4
 transformers==4.57.0
 tqdm==4.67.1
+sentence_transformers==5.1.2
+openai==2.6.1
+tiktoken==0.12.0
