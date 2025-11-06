@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="main-svg"
+   width="825.18018"
+   height="642.12714"
+   viewBox="0 0 825.18017 642.12716"
+   version="1.1"
+   id="svg140"
+   sodipodi:docname="embedding_clusters_qwen_without_sentences.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview140"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.98749999"
+     inkscape:cx="343.29114"
+     inkscape:cy="292.1519"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg140"
+     showguides="true" />
+  <rect
+     x="0"
+     y="0"
+     width="825.18018"
+     height="642.12714"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.05067"
+     id="rect1" />
+  <defs
+     id="defs-356ca6">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <g
+       class="clips"
+       id="g5">
+      <clipPath
+         id="clip356ca6xyplot"
+         class="plotclip">
+        <rect
+           width="598"
+           height="420"
+           id="rect2"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip356ca6x">
+        <rect
+           x="80"
+           y="0"
+           width="598"
+           height="600"
+           id="rect3" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip356ca6y">
+        <rect
+           x="0"
+           y="100"
+           width="800"
+           height="420"
+           id="rect4" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip356ca6xy">
+        <rect
+           x="80"
+           y="100"
+           width="598"
+           height="420"
+           id="rect5" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g6" />
+    <g
+       class="patterns"
+       id="g7" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath142">
+      <rect
+         width="98"
+         height="67"
+         x="2.1972657e-05"
+         y="-32.700001"
+         id="rect143" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath144">
+      <rect
+         width="98"
+         height="67"
+         x="2.1972657e-05"
+         y="-51.700001"
+         id="rect145" />
+    </clipPath>
+  </defs>
+  <g
+     class="layer-subplot"
+     id="g14"
+     transform="translate(4.4110783,49.714135)">
+    <g
+       class="shapelayer"
+       id="g12" />
+    <g
+       class="imagelayer"
+       id="g13" />
+  </g>
+  <g
+     class="minor-gridlayer"
+     id="g17"
+     transform="translate(4.4110783,49.714135)">
+    <g
+       class="x"
+       id="g15" />
+    <g
+       class="y"
+       id="g16" />
+  </g>
+  <g
+     class="layer-between"
+     id="g32"
+     transform="translate(4.4110783,49.714135)">
+    <g
+       class="shapelayer"
+       id="g30" />
+    <g
+       class="imagelayer"
+       id="g31" />
+  </g>
+  <path
+     class="xlines-below"
+     id="path32"
+     d="" />
+  <path
+     class="ylines-below"
+     id="path33"
+     d="" />
+  <g
+     class="overlines-below"
+     id="g33"
+     transform="translate(4.4110783,49.714135)" />
+  <g
+     class="xaxislayer-below"
+     id="g34"
+     transform="translate(4.4110783,49.714135)" />
+  <g
+     class="yaxislayer-below"
+     id="g35"
+     transform="translate(4.4110783,49.714135)" />
+  <g
+     class="overaxes-below"
+     id="g36"
+     transform="translate(4.4110783,49.714135)" />
+  <g
+     class="zerolinelayer-above"
+     id="g88"
+     transform="translate(4.4110783,49.714135)" />
+  <path
+     class="xlines-above crisp"
+     d="M 4.4110783,49.714135"
+     style="fill:none"
+     id="path88" />
+  <path
+     class="ylines-above crisp"
+     d="M 4.4110783,49.714135"
+     style="fill:none"
+     id="path89" />
+  <g
+     class="overlines-above"
+     id="g89"
+     transform="translate(4.4110783,49.714135)" />
+  <rect
+     class="bg"
+     x="117.47748"
+     y="133.13211"
+     width="598"
+     height="420"
+     style="fill:#e5ecf6;fill-opacity:1;stroke-width:0"
+     id="rect7" />
+  <g
+     class="gridlayer"
+     id="g28"
+     transform="translate(37.477488,33.132105)">
+    <g
+       class="x"
+       id="g21">
+      <path
+         class="xgrid crisp"
+         transform="translate(167.54)"
+         d="M 0,100 V 520"
+         style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+         id="path17" />
+      <path
+         class="xgrid crisp"
+         transform="translate(280.94)"
+         d="M 0,100 V 520"
+         style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+         id="path18" />
+      <path
+         class="xgrid crisp"
+         transform="translate(394.35)"
+         d="M 0,100 V 520"
+         style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+         id="path19" />
+      <path
+         class="xgrid crisp"
+         transform="translate(507.75)"
+         d="M 0,100 V 520"
+         style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+         id="path20" />
+      <path
+         class="xgrid crisp"
+         transform="translate(621.16)"
+         d="M 0,100 V 520"
+         style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+         id="path21" />
+    </g>
+    <g
+       class="y"
+       id="g27">
+      <path
+         class="ygrid crisp"
+         transform="translate(0,489.8)"
+         d="M 80,0 H 678"
+         style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+         id="path22" />
+      <path
+         class="ygrid crisp"
+         transform="translate(0,432.09)"
+         d="M 80,0 H 678"
+         style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+         id="path23" />
+      <path
+         class="ygrid crisp"
+         transform="translate(0,374.38)"
+         d="M 80,0 H 678"
+         style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+         id="path24" />
+      <path
+         class="ygrid crisp"
+         transform="translate(0,316.67)"
+         d="M 80,0 H 678"
+         style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+         id="path25" />
+      <path
+         class="ygrid crisp"
+         transform="translate(0,258.96)"
+         d="M 80,0 H 678"
+         style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+         id="path26" />
+      <path
+         class="ygrid crisp"
+         transform="translate(0,143.54)"
+         d="M 80,0 H 678"
+         style="stroke:#ffffff;stroke-width:1px;stroke-opacity:1"
+         id="path27" />
+    </g>
+  </g>
+  <g
+     class="zerolinelayer"
+     id="g29"
+     transform="translate(37.477488,33.132105)">
+    <path
+       class="yzl zl crisp"
+       transform="translate(0,201.25)"
+       d="M 80,0 H 678"
+       style="stroke:#ffffff;stroke-width:2px;stroke-opacity:1"
+       id="path28" />
+  </g>
+  <g
+     class="xtick"
+     id="g91"
+     style="fill:#000000"
+     transform="translate(37.477488,33.132105)">
+    <text
+       text-anchor="middle"
+       x="0"
+       y="533"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#000000;fill-opacity:1"
+       transform="translate(280.94)"
+       id="text90">11.5</text>
+  </g>
+  <g
+     class="xtick"
+     id="g92"
+     style="fill:#000000"
+     transform="translate(37.477488,33.132105)">
+    <text
+       text-anchor="middle"
+       x="0"
+       y="533"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#000000;fill-opacity:1"
+       transform="translate(394.35)"
+       id="text91">12</text>
+  </g>
+  <g
+     class="xtick"
+     id="g93"
+     style="fill:#000000"
+     transform="translate(37.477488,33.132105)">
+    <text
+       text-anchor="middle"
+       x="0"
+       y="533"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#000000;fill-opacity:1"
+       transform="translate(507.75)"
+       id="text92">12.5</text>
+  </g>
+  <g
+     class="xtick"
+     id="g94"
+     style="fill:#000000"
+     transform="translate(37.477488,33.132105)">
+    <text
+       text-anchor="middle"
+       x="0"
+       y="533"
+       style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#000000;fill-opacity:1"
+       transform="translate(621.16)"
+       id="text93">13</text>
+  </g>
+  <g
+     class="yaxislayer-above"
+     id="g103"
+     style="fill:#000000"
+     transform="translate(37.477488,33.132105)">
+    <g
+       class="ytick"
+       id="g96"
+       style="fill:#000000">
+      <text
+         text-anchor="end"
+         x="79"
+         y="4.1999998"
+         transform="translate(0,489.8)"
+         style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#000000;fill-opacity:1"
+         id="text95">−2.5</text>
+    </g>
+    <g
+       class="ytick"
+       id="g97"
+       style="fill:#000000">
+      <text
+         text-anchor="end"
+         x="79"
+         y="4.1999998"
+         style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#000000;fill-opacity:1"
+         transform="translate(0,432.09)"
+         id="text96">−2</text>
+    </g>
+    <g
+       class="ytick"
+       id="g98"
+       style="fill:#000000">
+      <text
+         text-anchor="end"
+         x="79"
+         y="4.1999998"
+         style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#000000;fill-opacity:1"
+         transform="translate(0,374.38)"
+         id="text97">−1.5</text>
+    </g>
+    <g
+       class="ytick"
+       id="g99"
+       style="fill:#000000">
+      <text
+         text-anchor="end"
+         x="79"
+         y="4.1999998"
+         style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#000000;fill-opacity:1"
+         transform="translate(0,316.67)"
+         id="text98">−1</text>
+    </g>
+    <g
+       class="ytick"
+       id="g100"
+       style="fill:#000000">
+      <text
+         text-anchor="end"
+         x="79"
+         y="4.1999998"
+         style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#000000;fill-opacity:1"
+         transform="translate(0,258.96)"
+         id="text99">−0.5</text>
+    </g>
+    <g
+       class="ytick"
+       id="g101"
+       style="fill:#000000">
+      <text
+         text-anchor="end"
+         x="79"
+         y="4.1999998"
+         style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#000000;fill-opacity:1"
+         transform="translate(0,201.25)"
+         id="text100">0</text>
+    </g>
+    <g
+       class="ytick"
+       id="g102"
+       style="fill:#000000">
+      <text
+         text-anchor="end"
+         x="79"
+         y="4.1999998"
+         style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#000000;fill-opacity:1"
+         transform="translate(0,143.54)"
+         id="text101">0.5</text>
+    </g>
+  </g>
+  <g
+     class="overaxes-above"
+     id="g104"
+     transform="translate(4.4110783,49.714135)" />
+  <defs
+     id="topdefs-356ca6">
+    <g
+       class="clips"
+       id="g117" />
+  </defs>
+  <rect
+     class="scrollbar"
+     rx="20"
+     ry="3"
+     width="0"
+     height="0"
+     style="fill:#808ba4;fill-opacity:1"
+     x="694.37109"
+     y="149.71414"
+     id="rect135" />
+  <g
+     class="g-gtitle"
+     id="g137"
+     style="fill:#000000"
+     transform="translate(155.67134,49.714135)">
+    <text
+       class="gtitle"
+       x="40"
+       y="50"
+       text-anchor="start"
+       dy="0em"
+       style="font-size:17px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+       id="text136"><tspan
+         style="font-weight:bold"
+         id="tspan145">2D visualization of query embeddings using t-SNE</tspan></text>
+  </g>
+  <g
+     class="g-xtitle"
+     id="g138"
+     style="fill:#000000"
+     transform="translate(26.846628,49.714135)">
+    <text
+       class="xtitle"
+       x="379"
+       y="561.29999"
+       text-anchor="middle"
+       style="font-size:14px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+       id="text137">t-SNE component 1</text>
+  </g>
+  <g
+     class="g-ytitle"
+     id="g139"
+     style="fill:#000000"
+     transform="translate(4.4110783,39.440705)">
+    <text
+       class="ytitle"
+       transform="rotate(-90,35.85,310)"
+       x="35.849998"
+       y="310"
+       text-anchor="middle"
+       style="font-size:14px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#000000;fill-opacity:1"
+       id="text138">t-SNE component 2</text>
+  </g>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.81796;stroke-linecap:round"
+     id="rect146"
+     width="110.63291"
+     height="58.987339"
+     x="134.48914"
+     y="152.793" />
+  <g
+     id="g148"
+     transform="translate(-746.01717,99.174858)">
+    <g
+       id="g146">
+      <text
+         class="legendtext"
+         text-anchor="start"
+         x="915.41888"
+         y="76.515114"
+         style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#000000;fill-opacity:1"
+         id="text121">Space</text>
+      <g
+         class="layers"
+         id="g125"
+         transform="translate(875.41889,71.835113)"
+         clip-path="url(#clipPath142)">
+        <g
+           class="legendfill"
+           id="g121" />
+        <g
+           class="legendlines"
+           id="g122" />
+        <g
+           class="legendsymbols"
+           id="g124">
+          <g
+             class="legendpoints"
+             id="g123">
+            <path
+               class="scatterpts"
+               transform="translate(20)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path122" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g147">
+      <text
+         class="legendtext"
+         text-anchor="start"
+         x="915.41888"
+         y="95.515114"
+         style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#000000;fill-opacity:1"
+         id="text127">Cooking</text>
+      <g
+         class="layers"
+         id="g132"
+         transform="translate(875.41889,90.835113)"
+         clip-path="url(#clipPath144)">
+        <g
+           class="legendfill"
+           id="g128" />
+        <g
+           class="legendlines"
+           id="g129" />
+        <g
+           class="legendsymbols"
+           id="g131">
+          <g
+             class="legendpoints"
+             id="g130">
+            <path
+               class="scatterpts"
+               transform="translate(20)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path129" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     class="overplot"
+     id="g87"
+     transform="translate(37.477488,33.132105)">
+    <g
+       class="xy"
+       transform="translate(80,100)"
+       clip-path="url(#clip356ca6xyplot)"
+       id="g86">
+      <g
+         class="scatterlayer mlayer"
+         id="g85">
+        <g
+           class="trace scatter tracea93192"
+           style="opacity:1;stroke-miterlimit:2"
+           id="g60">
+          <g
+             class="fills"
+             id="g37" />
+          <g
+             class="errorbars"
+             id="g38" />
+          <g
+             class="lines"
+             id="g39" />
+          <g
+             class="points"
+             id="g58">
+            <path
+               class="point plotly-customdata"
+               transform="translate(114.68,278.85)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path39" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(376.89,330.06)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path40" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(33.65,344.56)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path41" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(293.51,389.15)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path42" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(216.18,348.7)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path43" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(43.78,286.68)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path44" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(184.67,272.59)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path45" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(315.99,266.8)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path46" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(312.6,321.87)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path47" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(275.63,395.25)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path48" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(422.49,309.79)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path49" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(88.38,300)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path50" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(89.81,281.92)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path51" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(256.61,255.92)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path52" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(98.68,266.75)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path53" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(278.8,377.4)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path54" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(149.45,263.96)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path55" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(122.04,356.17)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path56" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(427.89,305.67)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path57" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(58.46,293.06)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#636efa;fill-opacity:1;stroke-width:0px"
+               id="path58" />
+          </g>
+          <g
+             class="text"
+             id="g59" />
+        </g>
+        <g
+           class="trace scatter trace420614"
+           style="opacity:1;stroke-miterlimit:2"
+           id="g84">
+          <g
+             class="fills"
+             id="g61" />
+          <g
+             class="errorbars"
+             id="g62" />
+          <g
+             class="lines"
+             id="g63" />
+          <g
+             class="points"
+             id="g82">
+            <path
+               class="point plotly-customdata"
+               transform="translate(222.02,69.46)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path63" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(507.07,89)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path64" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(241.99,90.55)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path65" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(467.59,157.51)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path66" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(486.95,30.06)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path67" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(536.02,132.53)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path68" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(331.58,77.56)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path69" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(123.48,113.23)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path70" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(364.6,70.81)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path71" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(544.64,86.16)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path72" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(477.06,127.58)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path73" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(243.1,101.41)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path74" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(359.52,95.92)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path75" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(366.21,142.86)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path76" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(440.42,24.75)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path77" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(564.35,130.41)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path78" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(321.94,55.66)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path79" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(529.91,39.66)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path80" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(368.94,41.43)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path81" />
+            <path
+               class="point plotly-customdata"
+               transform="translate(481.75,134.12)"
+               d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+               style="opacity:0.7;fill:#ef553b;fill-opacity:1;stroke-width:0px"
+               id="path82" />
+          </g>
+          <g
+             class="text"
+             id="g83" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
