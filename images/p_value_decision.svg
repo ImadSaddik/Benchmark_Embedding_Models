@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="155.62474mm"
+   height="102.52492mm"
+   viewBox="0 0 155.62474 102.52492"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="p_value_decision.svg"
+   inkscape:export-filename="p_value_decision.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1.4400158"
+     inkscape:cx="359.02384"
+     inkscape:cy="304.51055"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect16"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-28.479141,-28.846617)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+       id="rect16"
+       width="155.62474"
+       height="102.52492"
+       x="28.479141"
+       y="28.846617" />
+    <g
+       id="g17"
+       transform="translate(0.19514868,-0.70933169)">
+      <text
+         xml:space="preserve"
+         style="font-size:5.66139px;line-height:1.5;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.529167"
+         x="44.058697"
+         y="59.815567"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="fill:#000000;stroke-width:0.529167"
+           x="44.058697"
+           y="59.815567">p_value &lt; threshold ?</tspan></text>
+      <path
+         id="path7"
+         style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+         d="M 70.13499,36.561076 34.426578,58.300834 70.13499,80.040076 105.84289,58.300834 Z" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+         d="M 70.13499,80.040074 V 92.893699"
+         id="path8" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+         d="m 105.84289,58.300834 h 15.36879"
+         id="path9"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.66139px;line-height:1.5;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;stroke-width:0.529167"
+         x="110.84318"
+         y="55.268322"
+         id="text9"><tspan
+           sodipodi:role="line"
+           id="tspan9"
+           style="fill:#666666;stroke-width:0.529167"
+           x="110.84318"
+           y="55.268322">No</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.66139px;line-height:1.5;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;stroke-width:0.529167"
+         x="76.149261"
+         y="85.604935"
+         id="text10"><tspan
+           sodipodi:role="line"
+           id="tspan10"
+           style="fill:#666666;stroke-width:0.529167"
+           x="76.149261"
+           y="85.604935">Yes</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.66139px;line-height:1.5;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.529167"
+         x="58.45713"
+         y="108.93988"
+         id="text11"><tspan
+           sodipodi:role="line"
+           id="tspan11"
+           style="fill:#000000;stroke-width:0.529167"
+           x="58.45713"
+           y="108.93988">Reject H<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan12">0</tspan></tspan></text>
+      <g
+         id="g16"
+         transform="translate(-5.7876969,-2.9973806)">
+        <text
+           xml:space="preserve"
+           style="font-size:5.66139px;line-height:1.5;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.529167"
+           x="131.58421"
+           y="59.193249"
+           id="text14"><tspan
+             sodipodi:role="line"
+             id="tspan14"
+             style="fill:#000000;stroke-width:0.529167"
+             x="131.58421"
+             y="59.193249">Fail to reject H<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan13">0</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.66139px;line-height:1.5;font-family:Inter;-inkscape-font-specification:Inter;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.529167"
+           x="131.58421"
+           y="66.338921"
+           id="text16"><tspan
+             sodipodi:role="line"
+             id="tspan16"
+             style="fill:#000000;stroke-width:0.529167"
+             x="131.58421"
+             y="66.338921">Not enough evidence</tspan></text>
+      </g>
+      <path
+         d="m 61.414838,102.23772 c 0,-0.38221 0.316544,-0.69209 0.707039,-0.69209 h 4.639258 c 0.0062,-0.81505 0.09463,-1.932443 0.903505,-2.706003 0.636604,-0.60874 1.509297,-0.98505 2.470354,-0.98505 0.961057,0 1.833751,0.37631 2.470325,0.98505 0.808842,0.77356 0.897206,1.890953 0.903505,2.706003 h 4.639313 c 0.390473,0 0.707013,0.30981 0.707013,0.69209 0,0.38224 -0.316544,0.69208 -0.707013,0.69208 h -16.02626 c -0.390488,0 -0.707039,-0.30981 -0.707039,-0.69208 z"
+         fill="#1c274c"
+         id="path1"
+         style="fill:#000000;stroke-width:0.264583" />
+      <path
+         d="m 69.753801,125.3855 h 0.762434 c 2.623312,0 3.934919,0 4.787753,-0.83637 0.85283,-0.83633 0.940129,-2.2083 1.114627,-4.95217 l 0.251433,-3.95361 c 0.09466,-1.48883 0.14194,-2.23317 -0.285819,-2.70487 -0.427869,-0.47171 -1.150383,-0.47171 -2.595313,-0.47171 h -7.30784 c -1.44497,0 -2.167455,0 -2.595295,0.47171 -0.427828,0.4717 -0.380489,1.21604 -0.285819,2.70487 l 0.251433,3.95361 c 0.174495,2.74387 0.261761,4.11584 1.114569,4.95217 0.852823,0.83637 2.16447,0.83637 4.787822,0.83637 z"
+         fill="#1c274c"
+         id="path2"
+         style="fill:#000000;stroke-width:0.264583" />
+    </g>
+  </g>
+</svg>
