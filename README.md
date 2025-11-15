@@ -9,3 +9,4 @@ You will evaluate the models using various metrics, including [MRR](https://amen
 By combining these metrics and tests, you can confidently identify the best embedding model for your specific use case. Below is an example comparison of seven models on a custom dataset:
 
 ![Benchmark results](./images/benchmark_results.png)
+*Figure 1: Comparison of seven embedding models on a custom dataset.*
