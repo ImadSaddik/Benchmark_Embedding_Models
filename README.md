@@ -19,3 +19,23 @@ By combining these metrics and tests, you can confidently identify the best embe
 
 > [!NOTE]
 > The `embedding` folder is not pushed to the repository due to its large size. I moved that data into Hugging Face, [download the files from this repository](https://huggingface.co/datasets/ImadSaddik/BenchmarkEmbeddingModelsCourse). After downloading, create an `embedding` folder inside `data/` and put the JSON files there.
+
+## Setup
+
+To get started, install [Python](https://www.python.org/downloads/) and create a virtual environment.
+
+```bash
+# Anaconda
+conda create -n benchmark-embedding-models python=3.13 -y
+conda activate benchmark-embedding-models
+
+# venv
+python -m venv benchmark-embedding-models
+source benchmark-embedding-models/bin/activate  # On Windows use `benchmark-embedding-models\Scripts\activate`
+```
+
+Now, install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
