@@ -20,6 +20,25 @@ By combining these metrics and tests, you can confidently identify the best embe
 > [!NOTE]
 > The `embedding` folder is not pushed to the repository due to its large size. I moved that data into Hugging Face, [download the files from this repository](https://huggingface.co/datasets/ImadSaddik/BenchmarkEmbeddingModelsCourse). After downloading, create an `embedding` folder inside `data/` and put the JSON files there.
 
+## What you will learn?
+
+The notebooks in this repository follow exactly this pipeline:
+
+![Pipeline](./images/pipeline.svg)
+
+The pipeline is structured in a way that makes it easy to follow and understand each step. You will learn the following concepts:
+
+- The limitations of extracting text from PDF files with Python libraries and to solve that with the help of VLMs (Vision Language Models).
+- How to divide the extracted text into chunks that preserve context.
+- Generation questions for each chunk using LLMs (Large Language Models).
+- Use embedding models to create vector representations of the chunks and questions.
+- Use both open source and proprietary embedding models.
+- Use [llama.cpp](https://github.com/ggml-org/llama.cpp) to run models in the GGUF format locally on your machine.
+- Perform the benchmarking of different embedding models using various metrics and statistical tests with the help of [ranx](https://github.com/AmenRa/ranx).
+- Plot the vector representations to visualize if clusters are being formed.
+- Understand how to interpret the p-value that a statistical test provides.
+- And much more!
+
 ## Setup
 
 To get started, install [Python](https://www.python.org/downloads/) and create a virtual environment.
