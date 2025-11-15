@@ -25,6 +25,7 @@ By combining these metrics and tests, you can confidently identify the best embe
 The notebooks in this repository follow exactly this pipeline:
 
 ![Pipeline](./images/pipeline.svg)
+*Figure 2: Pipeline for benchmarking embedding models.*
 
 The pipeline is structured in a way that makes it easy to follow and understand each step. You will learn the following concepts:
 
