@@ -10,3 +10,12 @@ By combining these metrics and tests, you can confidently identify the best embe
 
 ![Benchmark results](./images/benchmark_results.png)
 *Figure 1: Comparison of seven embedding models on a custom dataset.*
+
+## What is in this repository?
+
+- `notebooks/`: Jupyter notebooks for each step in the pipeline.
+- `slides/`: Presentation slides used in the YouTube series.
+- `data/`: Data used in the notebooks.
+
+> [!NOTE]
+> The `embedding` folder is not pushed to the repository due to its large size. I moved that data into Hugging Face, [download the files from this repository](https://huggingface.co/datasets/ImadSaddik/BenchmarkEmbeddingModelsCourse). After downloading, create an `embedding` folder inside `data/` and put the JSON files there.
