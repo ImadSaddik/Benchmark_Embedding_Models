@@ -1,0 +1,542 @@
+[
+  {
+    "chunk_id": 0,
+    "question": "When was Glide's 'State of AI in operations 2025' survey conducted and who participated?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "What was the primary goal of the survey mentioned in the text?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "How does the adoption rate of AI compare to the growth of technologies like Google queries and ChatGPT?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "What percentage of businesses were found to be already using AI, and what percentage had active implementation plans underway?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "What was the initial expectation regarding AI's transformational impact, and how did it compare to the reported reality among AI adopters?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "How do AI investment plans differ between businesses planning to use AI and those already actively using it in 2025?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "Which specific industries and internal teams are at the forefront of AI adoption and success, according to the survey?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "What challenges do industries like construction, manufacturing, and retail face regarding AI adoption?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "What percentage of tech companies reported having AI agents deployed?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "What are the main categories of barriers to AI adoption identified in the report?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "What was the distribution of business sizes among the survey respondents?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "Which industries were most represented in the survey's participant demographics?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "What roles and departments were most prevalent among the survey respondents?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "What is the general sentiment among business leaders regarding AI's impact on their operations?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "What percentage of businesses are currently using AI or have active plans to implement it?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "How do businesses categorize themselves based on their AI adoption status, including those with no interest?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "What three main groups were survey respondents categorized into for AI adoption analysis, and what percentage falls into each group?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "How does the actual transformational impact of AI on operations compare to businesses' initial expectations?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "Which type of AI solution or platform is reported to have the most significant transformational impact on operations?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What is the general trend regarding business investment in AI for 2025?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What are the two largest investment allocation ranges for businesses planning to use AI in 2025, and what percentage of businesses fall into each?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What percentage of businesses, according to the graphic, plan to invest at least $100,000 in AI technology in 2025?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "Which specific industries are allocating the most budget towards AI, with over 50% planning investments exceeding $100,000?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "How does the AI investment of businesses already using AI compare to those in the planning stages for 2025?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What percentage of 'Planners' versus 'Adopters' are intending to spend over $100,000 on AI tools in 2025?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "What percentage of respondents are classified as \"AI Adopters\" and how are they defined?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "How does business size correlate with AI implementation levels, specifically comparing Enterprises to small businesses?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "What are the AI adoption rates for Enterprises, Midsize businesses, and Small businesses, and what challenge do smaller businesses face?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "Which industries show the highest reported rates of AI adoption?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "Which business function is significantly leading in AI use compared to other roles?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "List the top three departments reporting the highest AI usage, according to the provided data."
+  },
+  {
+    "chunk_id": 3,
+    "question": "What are some of the positive sentiments or feedback expressed by AI Adopters regarding their current experience with AI?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "What future goals do AI-adopting companies aim to achieve by integrating AI more deeply into their strategic operations?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What percentage of businesses surveyed are categorized as \"AI Planners\" and what are their current intentions regarding AI implementation?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What is the primary motivation for AI Planners when considering the adoption of artificial intelligence?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What are the main external and internal challenges that deter AI Planners from implementing AI?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "According to the provided chart, what are the top three barriers to AI adoption identified by businesses?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "How do AI Planners approach the selection of tools for AI rollout, and what types of solutions do they tend to avoid initially?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "Which types of AI tools are most frequently chosen by AI Planners for early adoption, according to the survey data?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What are some of the broader sentiments and concerns expressed by AI Planners regarding the practicality and timing of AI adoption?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "Who are AI Rejectors, according to the survey?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What percentage of AI Rejectors have no plans to implement AI in the future?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What is the perceived competitive advantage of AI among AI Rejectors?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What is the top reason businesses opt out of using AI technology?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What are the primary concerns AI Rejectors have about AI technology?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "How does business size correlate with resistance to AI use?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What are AI Rejectors investing in instead of AI to improve their operations?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What percentage of businesses choosing not to use AI have never used it?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is the top stated goal for businesses implementing AI?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "According to the provided ranking, what are the primary business motivations for adopting AI?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "How do AI adoption motivations differ between small companies and enterprise companies?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "Why do larger enterprises prioritize better insights and decision-making when adopting AI?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What distinguishes the AI motivations of midsized companies from both small businesses and enterprises?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "Which industries show the most interest in making their teams more efficient through AI?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What are the key AI adoption motivations for the retail industry?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is the consistent priority across businesses of all sizes when adopting AI?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "Which departments or teams within businesses exhibit the highest adoption of AI?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What are the leading use cases for AI reported by businesses?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "In which areas do businesses experience the most significant transformational impact from AI?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What is the general sentiment regarding the impact of AI across various use cases?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What percentage of businesses utilize AI for 'Business intelligence' and what is its reported transformational impact?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "According to the provided data, which AI use case has the highest reported transformational impact?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "How do business motivations for adopting AI correlate with the functions and use cases where it is implemented?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What is the difference in AI use case priorities between enterprises and small businesses?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "How are most AI tools being adopted by businesses, top-down or individually?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "What percentage of AI tools are supplied by companies versus sought out by individual employees?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "What is the most valued characteristic businesses prioritize when selecting an AI vendor?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "Beyond integration, what other factors do businesses highly value in an AI vendor?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "Which types of AI tools are businesses typically using to start their AI journey?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "Why are generative AI platforms and AI features within existing platforms popular starting points for businesses' AI adoption?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "What is the most common AI tool adopted at an individual level, and what are its limitations for company-wide use?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "What types of AI solutions are correlated with higher levels of success for businesses?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "According to the text, which AI tools report the most transformational impact?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "Which business tasks report the highest transformational impact from AI use?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "Why are AI agents becoming a preferred choice for businesses integrating AI into their systems?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "How does Gartner define AI agents?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "What percentage of businesses that have adopted AI are currently using AI agents?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "What proportion of businesses that have adopted AI are planning to use AI agents within the current year?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "How many AI agents do most businesses typically deploy?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "How does business size, particularly enterprises, correlate with AI agent usage?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "What are the most transformational tasks that AI agents help businesses address effectively?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "In which departments are AI agents most commonly employed, according to the infographic?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "What are the top three use cases for AI agents identified in the text?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "Which specific AI agent use cases are reported to have the highest transformational impact?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "What is identified as the primary barrier to deploying AI agents for businesses?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "Besides lack of knowledge, what other significant concerns do businesses face when implementing AI agents?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "What are the two most popular approaches businesses take to build or acquire AI agents?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "What percentage of businesses use third-party consultants or vendors to build custom AI agents?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "What advantages are associated with businesses building their own AI agents, especially with no/low code tools?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "What percentage of businesses using no-code for custom agents have 11 or more AI agents?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "How does building AI agents with no/low code tools affect the autonomy level of the agents?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "Which industry shows a higher propensity to build AI agents using no/low code platforms or in-house with code?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "How does AI agent adoption differ between enterprise organizations and small businesses in terms of usage rates and number of agents deployed?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "Which industry leads in AI agent adoption, and what is its reported adoption rate?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "What are the main categories of barriers and challenges businesses are encountering with AI adoption?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "Why is data privacy and security a 'dealbreaker' for businesses considering AI adoption?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "How does the importance of security concerns evolve as businesses move deeper into AI implementation?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "What are the different ways a 'lack of knowledge' acts as a barrier for AI Rejectors, AI Planners, and AI Adopters?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "How does business size correlate with the difficulty in gaining knowledge about AI for implementation?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "Why is 'integration with existing tools and processes' ranked as the number one factor businesses value in an AI vendor?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "Which specific industries are identified as having the most difficulty with AI adoption, and what are their common struggles?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "What internal organizational conflicts are reported to be slowing down AI adoption within companies?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "How do generational divides within an organization impact the adoption of AI?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "Despite the challenges, what is the general sentiment regarding AI's potential impact across different industries?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "What is the primary concern expressed by individuals and leaders regarding AI adoption?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "What percentage of survey respondents are concerned about job loss due to AI?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "Besides job loss, what other concerns do leaders mention regarding AI's impact?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "How do managers' concerns about AI differ from those of Directors and above?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "What is a suggested method for leaders to overcome AI resistance among their teams?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "What is the main goal most businesses have for integrating AI into their operations?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "In what ways do leaders anticipate AI will change or create new roles within their workforce?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "What communication strategy is recommended for leaders to allay fears about AI and jobs?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "What percentage of businesses explicitly state an aim to reduce their workforce with AI?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "Which specific industries and types of companies are more likely to target workforce reduction with AI?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What is the primary conclusion regarding the successful rollout of AI in workplaces?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "Why is leadership deemed vital for the success of AI within businesses?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "How do the most impactful AI implementations differentiate themselves in terms of rollout and design?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What advantages do leaders have in investing in and tailoring AI solutions for their businesses?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What specific types of AI tools and strategies are proving effective for businesses?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What is the expectation from employees regarding AI tools, and what role do leaders play in this?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "According to David Siegel, how should artificial intelligence be understood in the context of business transformation?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "What was the timeframe for the online survey conducted for this report?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "How many respondents participated in the survey?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "What job roles were required for survey respondents?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "What was the minimum headcount for businesses included in the survey?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "Which five English-speaking countries were included in the survey?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "Were Glide customers part of the surveyed individuals or businesses?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "Who assisted in conducting the study?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "What is Wren Noble's role at Glide and what are her areas of expertise?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "What kind of research has Wren Noble produced?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "What type of firm is Researchscape International and when was it founded?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "What methodology does Researchscape International specialize in?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "How many consumers and business professionals did Researchscape International survey in 2024, and in how many countries?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "What is Glide, and what kind of apps does it help businesses create?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "How many teams use Glide, and what benefits do they gain?"
+  }
+]

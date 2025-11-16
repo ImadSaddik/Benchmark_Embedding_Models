@@ -1,0 +1,710 @@
+Glide
+The state of AI in operations 2025
+
+In January 2025, we surveyed over 1,000 managers and senior business leaders to learn about where they are in the process of AI adoption and what impact AI technology is having on their operations.
+glide.info/ai
+
+Table of contents
+
+Key takeaways 3
+A snapshot of AI adoption 4
+Who is using AI 4
+Impact: anticipation vs. reality 5
+Investment 6
+The AI adoption curve 8
+AI Adopters 8
+AI Planners 10
+AI Rejectors 11
+AI implementation 14
+Motivation 14
+Use cases 15
+Tools 16
+Success 18
+AI agents 19
+Who is using AI agents 20
+How AI agents are being built 21
+Number of AI agents deployed 23
+Challenges and barriers to AI adoption 24
+Security 24
+Lack of knowledge 24
+Integration 25
+AI barriers by industry 25
+Internal conflicts 26
+Will AI take our jobs? 27
+Conclusion 29
+Study methodology 30
+
+AI is being adopted at a faster rate than any tech we've seen before. It took Google over a decade to surpass a billion queries a day¹. ChatGPT reached that number in just two years².
+
+AI's rapid pace, seemingly taking over businesses and news cycles overnight, makes you wonder if the whole thing is just hype. In fact, that's what we expected to find when we started off on this survey. We couldn't have been more wrong.
+
+When the results came back, it turned out that businesses are actually underestimating the positive impact AI will have on their operations.
+
+Our January 2025 survey of over 1,000 managers and business leaders found that AI adoption is well underway across business operations. We learned who is ahead of the curve and who is struggling to catch up. We also uncovered some key information on how different businesses are using AI to contribute to their success, giving them a crucial competitive edge.
+
+Key Takeaways: AI adoption is underway across businesses, and the outlook is positive
+
+AI adoption rates are high and climbing quickly
+Our survey found that 28% of businesses are already using AI, and another 45% have active implementation plans underway.
+
+Businesses are very optimistic about AI's potential impact
+Of the businesses surveyed, 28% expected AI to have a transformational impact, and 59% believed its impact would be somewhat positive.
+
+In real-life use, businesses report AI's transformational impact is even higher
+Of the population that has already adopted AI, 51% report that it has had a transformational impact on their operations.
+
+Businesses using AI are planning to increase their investment in 2025
+34% of businesses planning to use AI plan to spend over $100,000, while 57% of those already actively using AI in their operations plan to spend $100,000 or more.
+
+Tech companies and IT teams are at the front of the curve
+They're adopting AI faster, using more integrated AI tools like custom agents (72% of tech companies already have AI agents deployed), and reporting higher levels of success with them. Other industries—such as construction, manufacturing, and retail—face challenges like lack of knowledge, internal conflict, and tools that won't integrate with legacy systems. This report unpacks those barriers.
+
+¹Internet Live Stats, Google Search Statistics - delivered by Wordometers Algorythm
+²Hu, Krystam. Reuters, ChatGPT sets record for fastest-growing user base - analyst note. 2 February, 2023
+
+[Image: A series of four infographic sections detailing the demographics of the survey respondents.]
+
+[Description of the first infographic section, titled "Business Size".]
+This section uses bullet points with colored circles to represent the data.
+- 32% Enterprise (100+)
+- 43% Midsize businesses (100-999)
+- 25% Small businesses (10-99)
+
+[Description of the second infographic section, titled "Industry".]
+This section uses bullet points with colored circles to represent the data.
+- 19% Construction
+- 19% Manufacturing
+- 19% Retail
+- 17% Technology
+- 26% Other¹
+A footnote indicates that "Other" includes 8% Transportation & Logistics and 18% Other.
+
+[Description of the third infographic section, titled "Role".]
+This section uses bullet points with colored circles to represent the data.
+- 65% Manager
+- 31% Director
+- 4% VP & C-level
+- 0% Individual contributor
+
+[Description of the fourth infographic section, titled "Department".]
+This section uses bullet points with colored circles to represent the data.
+- 31% IT
+- 22% Operations
+- 10% HR
+- 8% Customer service & support
+- 29% Other²
+A footnote indicates that "Other" includes 8% Admin, 8% Sales, and 13% Other.
+
+[Description of a bar chart titled "Participating countries".]
+A horizontal bar chart shows the percentage of respondents from different countries.
+- US: 71%
+- UK: 14%
+- CAD (Canada): 8%
+- AUS/NZ (Australia/New Zealand): 7%
+
+A snapshot of AI adoption
+The vast majority of business leaders believe AI will have a positive—if not transformational—impact on their operations, and AI adoption is well underway across many industries.
+
+73% of businesses are already using AI or have active plans to
+Almost three-quarters of businesses either already use AI or have active plans to roll it out. A fifth of businesses report that they want to implement AI but aren't sure how. Only a small minority of respondents indicate that they have no interest at all in AI implementation. Overall, the trend is moving quickly toward widespread AI use in businesses over the coming year.
+
+[Image: A donut chart titled "73% of businesses are using AI or have active implementation plans".]
+[Description of the donut chart:]
+The chart is a segmented ring. In the center, text reads "73% are using AI or have plans to implement". The ring is divided into four colored sections, each with a percentage and a corresponding legend entry.
+- A large blue section representing 45% is labeled "Have active plans to implement AI".
+- A smaller teal section representing 28% is labeled "Have AI implemented".
+- A light grey section representing 19% is labeled "Want to implement AI but don't know how".
+- A very small grey section representing 8% is labeled "Have no interest in implementing AI".
+
+Based on this data, we categorized survey respondents into 3 groups in order to learn more about where businesses are already proving successful and why other businesses are further behind in their AI adoption.:
+
+[Image: Three infographic boxes side-by-side, each representing a group of survey respondents.]
+[Description of the infographic boxes:]
+- The first box, in light blue, is titled "AI Adopters" and is described as "Businesses already using AI in their operations". The number "28%" is displayed prominently.
+- The second box, in purple, is titled "AI Planners" and is described as "Businesses with active plans to implement AI in the near future". The number "64%" is displayed prominently.
+- The third box, in grey, is titled "AI Rejectors" and is described as "Businesses who have no plans to implement AI". The number "8%" is displayed prominently.
+Each box features a faint background pattern of vertical lines.
+
+We'll go into detail about each of these groups later.
+
+The real life impact of AI is significantly higher than businesses expect
+Businesses have positive expectations for how AI will impact their operations, with 28% anticipating it would be transformational for them and 59% expecting a somewhat positive impact. While some leaders express pessimism, they are few in number.
+
+[Image: A bar chart titled "The real life impact of AI is exceeding already hyped expectations".]
+[Description of the bar chart:]
+The chart compares expectations versus reality regarding the transformational impact of AI.
+- The first bar, labeled "Expectations", shows "28%". The sub-caption reads "Expect AI to be transformational".
+- The second bar, labeled "Reality", is significantly taller and shows "51%". The sub-caption reads "Experience AI's impact as transformational".
+
+Once businesses start using AI, 52% report that it has had a transformational impact on their operations. AI is outperforming people's expectations across the board.
+
+This impact appears across businesses using all types of AI tech, with no/low code platforms topping the list in transformational impact.
+
+[Image: A horizontal stacked bar chart titled "Custom built AI solutions using no/low code are proving the most transformational".]
+[Description of the chart:]
+The chart shows the real-life impact of different AI tools on operations. Each row represents a type of AI tool, and the bar is segmented by the type of impact. A legend at the top indicates the colors for Transformational, Somewhat positive, Negligible, Somewhat negative, and Harmful.
+- **Custom built AI solutions using no/low code platforms:** 59% Transformational, 38% Somewhat positive.
+- **New AI offerings from existing vendors:** 54% Transformational, 45% Somewhat positive.
+- **AI features within existing platforms:** 53% Transformational, 42% Somewhat positive, 4% Negligible.
+- **Generative AI platforms:** 52% Transformational, 44% Somewhat positive.
+- **AI first solutions for specific use cases:** 52% Transformational, 45% Somewhat positive.
+- **Custom built AI solutions with code:** 42% Transformational, 53% Somewhat positive, 5% Negligible.
+
+Businesses are investing more in AI
+Businesses planning to use AI in 2025 are investing significant resources into it—and for more than the cost of a ChatGPT Pro account. 39% of businesses are allocating between $10,000 and $99,999 for 2025, with the next largest segment, at 29%, investing between $100,000 and $499,999.
+
+[Image: A large graphic with text and a visual element.]
+[Description of the graphic:]
+On a dark background, the text "43%" is displayed in large white font. Below it, in smaller text, it says "of businesses plan to invest at least $100,000 in AI technology in 2025". To the right of the text is an abstract design of vertical blue lines, similar to the one on the cover page.
+
+Manufacturing, transportation & logistics, retail, and tech are allocating the most budget towards AI, with over 50% of respondents planning to invest over $100,000 in 2025.
+
+The businesses that have already begun using AI are continuing to increase their investment, allocating significantly more money on average to AI tech than those in the planning stages.
+
+[Image: A bar chart titled "Businesses already using AI are doubling down on investment in 2025".]
+[Description of the bar chart:]
+The chart compares the investment plans of two groups. The main title of the chart is "Percent of businesses planning to spend over $100K on AI tools in 2025".
+- The first bar, labeled "Planners", shows "34%". The sub-caption reads "Businesses in the planning stages of AI adoption".
+- The second bar, labeled "Adopters", is significantly taller and shows "57%". The sub-caption reads "Businesses actively using AI in their operations".
+
+The AI adoption curve
+We asked questions to learn more about which businesses are already using AI, which are in the active planning phase, and which are choosing not to use AI at all. Here's what we learned.
+
+AI Adopters
+AI Adopters are the 28% of respondents who report that they are already using AI in their organization. We asked them specific questions about where they are using AI, what tools they've tried, and how successful their AI adoption has been in each area.
+
+Larger businesses report higher levels of AI implementation, with Enterprises using AI at over 2x the rate of small businesses.
+
+[Image: A horizontal bar chart titled "Enterprises are ahead of the curve in adopting AI".]
+[Description of the chart:]
+The chart compares AI adoption between Enterprises, Midsize businesses, and Small businesses. Each business size has two bars. A legend indicates that the dark blue bar represents "Using AI" and the light blue bar represents "Want to use AI but don't know how".
+- **Enterprises:** 40% are using AI, while 12% want to use AI but don't know how.
+- **Midsize businesses:** 26% are using AI, while 18% want to but don't know how.
+- **Small businesses:** 16% are using AI, while 30% want to but don't know how. A callout box points to the "Small businesses" bars with the text: "Smaller businesses are struggling to figure out how to implement AI".
+
+Unsurprisingly, tech-forward industries and roles are much more likely to report that they are using AI tools. 47% of software & technology companies report using AI already, with retail, professional services, manufacturing, and transportation and logistics following at between 25-27%.
+
+By function, IT is significantly outpacing other roles in AI use. While about 67% of businesses report AI is being used in IT, it's only being used in other functions at around 26%.
+
+The next highest is Operations and Customer Service and Support—likely due to how well-established AI chatbots are already. Marketing, Sales, HR, and Admin have moderate AI adoption rates.
+
+[Image: A horizontal bar chart titled "IT is outpacing all other departments in AI use".]
+[Description of the chart:]
+The chart displays the percentage of different departments that are using AI.
+- IT: 67%
+- Operations: 52%
+- Customer service and support: 51%
+- Marketing: 42%
+- Sales: 42%
+- HR: 40%
+- Admin: 38%
+- Finance/Accounting: 34%
+- Software engineering: 29%
+- Procurement: 25%
+
+What AI Adopters are saying
+We're satisfied, if not overwhelmed, by the tasks currently available for AI to accomplish.
+I'd like it to be enterprise-wide.
+I think business leaders should understand that the benefit of AI outweighs the negatives. AI is improving our revenue.
+There is nothing I would change at this point. AI has done a tremendous job for our company.
+I can't wait to see how AI can help mankind, not just in my industry but in several other fields. I think it will be revolutionary.
+I can't wait to see how AI can help mankind, not just in my industry but in several other fields. I think it will be revolutionary.
+Our company is very satisfied with our progress.
+People are afraid of it and shouldn't be.
+Over the next 5 years, my company aims to integrate AI more deeply into its strategic operations. The goal would be to leverage AI to gain a competitive edge, improve innovation, and adapt to changing market demands.
+
+AI Planners
+AI Planners are the largest group of businesses surveyed. 45% report they have active plans to implement AI, while 19% report they want to implement AI but don't know how.
+
+Planners' biggest hope when adopting AI is to drive more efficiency. The top concerns holding them back in implementing AI are security and data privacy concerns and a lack of knowledge on where to start. Planners also spoke about encountering internal conflict in the form of resistance from leadership and fear of replacement among workers.
+
+[Image: A bubble chart titled "What is holding businesses back from implementing AI?".]
+[Description of the chart:]
+The chart, subtitled "Barriers to AI adoption", consists of five bubbles of varying sizes, each containing a percentage and a label.
+- A large bubble shows "51%" and is labeled "Data privacy and security concerns".
+- A slightly smaller bubble shows "44%" and is labeled "Lack of knowledge".
+- A bubble of similar size shows "41%" and is labeled "Costs".
+- A smaller bubble shows "27%" and is labeled "Leadership buy-in".
+- Another small bubble shows "26%" and is labeled "Lack of engineering resources".
+
+This group appears more cautious about the tools they're choosing for AI rollout. Planners are opting to start primarily with AI features and tools offered by the software vendors they are already using and comfortable with. They are less likely to explore custom-built tools and more tailored solutions like AI agents.
+
+[Image: A horizontal bar chart titled "Early AI adoption is starting with generative AI platforms and existing software vendors".]
+[Description of the chart:]
+The chart shows the popularity of different types of AI tools for early adoption.
+- Generative AI platforms: 72%
+- AI Features integrated within existing platforms: 64%
+- New AI offerings from existing vendors: 57%
+- AI-First solutions for specific use cases: 35%
+- Custom built AI with code: 28%
+- Custom built AI with no/low code: 26%
+
+What AI Planners are saying
+It's a new technology so I want to get in early but also cautiously.
+I secretly don't trust it, but I have to keep up with the market trends. I am constantly worried about privacy breaches and staff not using their brain power.
+I feel like there is quite a bit we still need to learn about AI.
+It's challenging knowing which tools are best for our specific needs and being able to customize it.
+Safety concerns linger.
+The scope is so wide. It's overwhelming to businesses.
+I don't know where to begin.
+Can AI really be useful, or will it just be another 'task' that I need to perform?
+Where to start?
+We need to get employees upskilled to be able to work efficiently with the AI tech that we are implementing.
+We're concerned that it's too soon to adopt any AI, as we want it to be time-tested. Once it's tested by other companies, we will start doing more of it.
+
+AI Rejectors
+Just 8% of those surveyed are AI Rejectors. These are businesses that report they haven't implemented AI and have no active plans.
+
+Many AI Rejectors are entirely resistant to the idea of using any AI technology at all. Half of AI rejectors (49%) have no plans to implement AI in the future, and a majority of AI Rejectors said their business hasn't experimented with any AI tools at all.
+
+[Image: An infographic titled "Many of the businesses that opt out of AI haven't tried it and don't plan to".]
+[Description of the infographic:]
+The infographic shows two large, ring-like shapes, each containing a key statistic. The overall title is "Businesses choosing not to use AI".
+- The first ring shows "68%" in the center with the label "never used AI".
+- The second ring shows "49%" in the center with the label "don't plan to use AI in the foreseeable future".
+
+Surprisingly, even AI rejectors seem to have an optimistic outlook on AI's ability to give businesses a competitive edge. 59% of AI rejectors perceive that businesses using AI would gain between a "somewhat" and "extremely" significant competitive advantage from it, yet their businesses are still choosing not to use it.
+
+[Image: A donut chart titled "59% of businesses rejecting AI still think it gives businesses a competitive advantage".]
+[Description of the chart:]
+The chart, subtitled "Perceived competitive advantage of AI", is a segmented ring. The center text reads "59% see the competitive advantage". The ring is divided into five colored sections, each with a percentage and a corresponding legend entry.
+- 35% Somewhat significant
+- 21% Hardly significant
+- 14% Extremely significant
+- 10% Very significant
+- 20% Not at all significant
+
+If we examine the reasons for opting out of AI tech, the top reason is that businesses simply prefer their existing systems. Hesitations about AI's ability to live up to its promises are also common; many businesses report they don't believe it will have a positive impact or they have concerns about its accuracy and reliability.
+
+[Image: A horizontal bar chart titled "Why are businesses opting out of using AI technology?".]
+[Description of the chart:]
+The chart is divided into two sections.
+The first section is labeled "Why isn't your company using AI?".
+- We prefer to use our existing systems: 47%
+- We don't believe AI will have a positive impact on the business: 36%
+- We have concerns about AI technology or implementation: 17%
+The second section is labeled "Top concerns about AI".
+- Data security or privacy concerns: 60%
+- AI accuracy and reliability: 46%
+- Cost: 32%
+- AI bias: 32%
+- Employee resistance: 31%
+
+Smaller businesses are more likely than larger businesses to be resistant to AI use, with 13% reporting they have no plans, compared to just 4% of enterprises.
+
+Instead of using AI to improve their operations, AI Rejectors are investing in training and upskilling (56%), optimizing existing processes (46%), and hiring more people (35%).
+
+What AI Rejectors are saying
+I don't trust it and don't really have a reason to not trust it.
+We don't know enough about AI yet. It hasn't been fully tested to know what the long-term outcome would be.
+We do not think our customers would appreciate the use of AI, and we are happier to continue to do things manually ourselves.
+How will a robot determine which is the best way to do something? I don't get it.
+It won't be the smoking gun everyone thinks it is.
+Too new.
+I will wait until it is proven to be reliable.
+
+AI implementation: Motivation, use cases, tools, and pathways to success
+We wanted to understand what businesses are hoping to achieve with AI and get a better idea of where it's being used and what tools are being deployed for those tasks. This section looks at all of those elements—as well as how businesses are deploying AI successfully.
+
+Motivation: Why are businesses implementing AI?
+The top stated goal for using AI across the board is efficiency gains, however, that changes by role and business size.
+
+[Image: A ranked list titled "Top business motivations for adopting AI".]
+[Description of the list:]
+The image displays a numbered list from 1 to 6, with each item in a separate colored bar.
+1. Make teams more efficient
+2. Better insights and decision making
+3. Drive revenue growth
+4. Give teams new capabilities
+5. Reduce non-staff expenses
+6. Reduce workforce
+
+Small companies seek efficiency, while larger companies value insight
+Business's priorities shift significantly as they grow. Smaller companies overwhelmingly chose efficiency gains as their highest priority, at 40% of the respondents.
+
+Enterprise companies report their primary goal is better insights and decision-making, while for small businesses this is close to lowest importance.
+
+For large businesses, high volumes of data and the complexity of running an operation with many data streams make gaining valuable insights into operations a challenge. AI can quickly synthesize huge amounts of data and identify patterns, making it a game-changer for leaders of larger Enterprises.
+
+[Image: A horizontal bar chart titled "Enterprises seek better insights and decision making from AI technology, while small businesses want more efficiency".]
+[Description of the chart:]
+The chart compares the motivations for deploying AI across different business sizes. A legend indicates that the dark blue bar represents "Better insights and decision making" and the light blue bar represents "Make teams more efficient".
+- **Enterprise:** 27% Better insights, 25% More efficiency.
+- **Midsize businesses:** 22% Better insights, 34% More efficiency.
+- **Small businesses:** 9% Better insights, 40% More efficiency.
+
+Revenue remains a steady third-place priority across businesses of all sizes.
+
+Interestingly, midsized companies vary from both small businesses and Enterprises in two key ways. They are less likely to value giving their team new capabilities and slightly more likely to report wanting to reduce their workforce than either.
+
+Industries have varying motivations for adopting AI
+There are also some differences between industries. Transportation & logistics, manufacturing, and other labor-intensive industries care most about making their teams more efficient. Businesses in Construction care about efficiency, but also want to add new capabilities to their teams.
+
+Retail businesses care the most about driving revenue growth—and also have the highest desire to reduce their workforce. They are also the most price-sensitive when evaluating AI vendors, with 27% valuing cost highest.
+
+Use Cases: Where are businesses implementing AI?
+AI use is highest in IT by a fairly large proportion. Operations and customer service/support teams are next highest (likely due to well-established AI chatbots), followed by marketing, sales, and HR.
+
+Business intelligence is the top use case for AI, followed by data processing and process automation.
+
+Businesses report that AI has the most transformational impact across research and brainstorming, data processing, and process automation. The impact of AI is reported as positive across the board. Over half of respondents report a transformational impact for almost every use case.
+
+[Image: A dual horizontal bar chart titled "Where are businesses using AI for, and how effective are they finding it?".]
+[Description of the chart:]
+The chart has two columns of data: "Usage" and "Transformational impact". Each row corresponds to a specific use case.
+- **Business intelligence:** 61% Usage, 51% Transformational impact.
+- **Data processing:** 58% Usage, 64% Transformational impact.
+- **Process automation:** 57% Usage, 58% Transformational impact.
+- **Content generation:** 54% Usage, 50% Transformational impact.
+- **Document processing:** 52% Usage, 48% Transformational impact.
+- **Research & brainstorming:** 52% Usage, 66% Transformational impact.
+- **Internal knowledge management:** 44% Usage, 49% Transformational impact.
+- **Customer facing chatbot:** 41% Usage, 47% Transformational impact.
+- **Code development:** 32% Usage, 52% Transformational impact.
+
+Business's top use cases align with their AI goals
+When we compare businesses' motivations for adopting AI to the functions and use cases where they're rolling it out, they (unsurprisingly) align fairly closely. Enterprises are using more AI for tasks involving data and decision-making, while small businesses are most likely to use it for efficiency-related tasks like process automation.
+
+Tools: How are businesses implementing AI?
+We found that the majority of AI adoption is being driven top-down. Almost three-quarters of the tools respondents are using are supplied to them by their company. Just a quarter of respondents are using AI tools they'd sought out on their own.
+
+[Image: A concentric circle diagram titled "Most AI tools in use are being deployed top-down".]
+[Description of the diagram:]
+The chart asks "Who deployed the AI tools you are using? (select all)". It shows three concentric circles, each with a percentage and a label.
+- The largest, outermost circle is labeled "My company" at 74%.
+- The middle circle is labeled "My manager/team" at 41%.
+- The smallest, innermost circle is labeled "I found them myself" at 24%.
+
+Most businesses prioritize integration with their existing systems when selecting vendors for their AI tools. Interestingly, integration is also reported as a major challenge for many businesses, which we will discuss later in this report. Businesses also highly value AI output quality, data privacy, and security in an AI vendor.
+
+[Image: A ranked list titled "Businesses need AI that integrates with their existing systems".]
+[Description of the list:]
+The list answers the question "What do you value most in an AI vendor?". It is a numbered list from 1 to 7, with each item in a separate colored bar.
+1. Integration with our systems
+2. AI output quality
+3. Data privacy and security standards
+4. Price/cost
+5. End-user ease-of-use
+6. Customization flexibility
+7. Implementation timeline
+
+Most businesses appear to be starting their AI journey with the most easily accessible tools available to them. Both AI Adopters and AI Planners report their top-used tools as Generative AI platforms, AI features within existing platforms, and new AI offerings from existing vendors.
+
+This isn't surprising since generative AI platforms like ChatGPT are both the most widely discussed tools and the easiest to access, with many accessible for free online. Lots of existing tools have also been jumping on the AI bandwagon, so workers are likely to have easy access to AI features and new tools from the software they're already relying on for work.
+
+This is also true when we look at what tools are being self-selected vs implemented top-down by a company or team. AI content generation tools are the most common tool implemented on an individual level (70%) but less common for companies to provide. Tools like ChatGPT, Jasper, and Perplexity are easy for any worker to access and don't require any setup to use. However, they aren't able to use company-specific data or integrate with processes where a business needs efficiency gains.
+
+Success: What tools are businesses finding most effective?
+More targeted solutions, custom-built tools, and tools that are more integrated into business data are harder to roll out but are also correlated with higher levels of success.
+
+When looking at the tools AI Adopters are finding to be transformational, AI tools that have been custom-built using a no code platform top the list at 59%, along with new tools from existing vendors (54%).
+
+[Image: A horizontal bar chart titled "Tools built with no/low code platforms report the most transformational impact".]
+[Description of the chart:]
+The chart shows the percentage of businesses finding a transformational impact from various types of AI tools.
+- Custom-built AI solutions using no/low code platforms: 59%
+- New AI offerings from existing vendors: 54%
+- AI features within existing platforms: 53%
+- AI-first solutions for specific use cases: 52%
+- Generative AI platforms: 52%
+- Custom-built AI solutions with code: 42%
+
+Businesses report the highest transformational impact from research and brainstorming, data processing, and process automation. These are all tasks that require a high level of integration with data, tools, and processes—indicating using custom tools could help businesses achieve higher impacts from AI use.
+
+AI agents: The next step for businesses integrating AI into their systems
+
+What people are saying about AI agents
+We need more AI agents developed faster.
+In five years, AI agents could be deeply embedded across every department.
+They seem to be advancing at an incredible pace. We want to supervise them first since they are relatively new, but expect to be hands-off by the end of this year.
+I think we will have to use AI agents more because everyone else will be.
+I see AI agents being implemented on a per-project basis. Then ramping up to department level implementation.
+In one year, we will be comfortable using AI agents. In 5 years they will be transforming our business.
+I expect our usage to increase to keep up with competition.
+I'm skeptical that they will be as effective as what is being promised currently. I believe there will not be fully autonomous AI and instead require decent human interaction or support.
+I think we will be developing our own agents in-house. I can see us using them for everything from sales and marketing content creation to human resources, data mining, and customer interaction.
+I expect our company to grow with the help of AI agents.
+Over the next year, I see my company using AI agents to automate routine tasks and enhance customer support. In five years, I envision AI agents becoming more advanced, handling complex decision-making, personalizing customer experiences, and driving innovation in our operations.
+
+The deeper businesses progress into AI adoption, the more they need tools that address specific pain points, use their unique data, and integrate seamlessly into their existing processes. The way many businesses are choosing to implement this type of AI is with AI agents.
+
+According to Gartner, "AI agents are autonomous or semiautonomous software entities that use AI techniques to perceive, make decisions, take actions, and achieve goals." They are typically more customized since they need to work with the unique needs of the businesses deploying them.
+
+47% of businesses that have implemented AI are already using AI agents
+
+[Image: A donut chart titled "94% of businesses that have adopted AI are also using AI agents or planning to".]
+[Description of the chart:]
+The chart is a segmented ring. In the center, text reads "94% are using AI agents or planning to". The ring is divided into three colored sections, each with a percentage and a corresponding legend entry.
+- A dark teal section representing 47% is labeled "Using AI agents".
+- A light teal section representing 47% is labeled "Not using AI agents, but plan to this year".
+- A small grey section representing 6% is labeled "Not using AI agents, and have no plans".
+
+The vast majority of businesses using AI are also either already using AI agents (47%) or have plans to (47%).
+
+Most have deployed more than one agent, with 78% reporting they are currently using between 2 and 10 AI agents. Agent usage follows the same trends as general AI use along business size, with Enterprises 41% more likely to report using agents and using a higher number of agents within their businesses.
+
+AI agents make it possible to use AI more effectively for the tasks that businesses report to be the most transformational, such as data processing, process automation, and business intelligence. These are also the tasks that are hardest to address with lower-barrier AI tools.
+
+[Image: A dual-section infographic titled "Where businesses are employing AI agents".]
+[Description of the infographic:]
+The infographic is split into two columns: "Departments" on the left and "Use Cases" on the right. Each column contains a series of lozenge shapes with a percentage and a label.
+**Departments:**
+- 59% IT
+- 52% Customer Service / Support
+- 43% Operations
+- 35% HR
+- 35% Sales/BD
+- 33% Marketing
+- 30% Admin
+- 27% Finance/Accounting
+- 21% Software Engineering
+**Use Cases:**
+- 53% Data processing
+- 51% Process automation
+- 48% Customer-facing chatbot
+- 46% Business intelligence
+- 45% Document processing
+- 44% Content generation
+- 43% Research & brainstorming
+- 39% Internal knowledge management
+- 32% Code development
+
+Almost half of the businesses using AI agents found they have had a transformational impact on their work. The two use cases performing above average are data processing (52% report transformational) and process automation (52% transformational).
+
+55% partner with consultants to build custom AI agents
+The top-reported barrier to deploying AI agents is a lack of knowledge. Over half of businesses report struggling with this. Cost also climbs the list compared to general AI use—more customized solutions can be expensive, especially if they involve software development. Data privacy is a much lower priority at this stage of AI adoption.
+
+[Image: A horizontal bar chart titled "Lack of knowledge is a major barrier to deploying AI agents".]
+[Description of the chart:]
+The chart shows the biggest concerns when implementing AI agents.
+- Lack of knowledge: 54%
+- Costs: 44%
+- Employee resistance: 31%
+- Leadership buy-in: 26%
+- Data privacy and security concerns: 26%
+- Lack of engineering resources: 14%
+
+Overall, the two most popular approaches to building AI agents involve customization and the support of an outside expert. Over half of businesses report to have built AI agents using third-party consultants or vendors.
+
+Another large portion of agents were purchased pre-built but customizable to that business's unique needs in-house. Both approaches allow businesses to benefit from a company or developer's specialized knowledge to help them understand how to deploy their agents effectively.
+
+[Image: A horizontal bar chart titled "55% of businesses using AI agents built custom agents with the help of a third-party consultant or vendor".]
+[Description of the chart:]
+The chart displays how businesses are building or acquiring AI agents.
+- Used a third-party consultant or vendor to build it: 55%
+- Purchased a pre-built solution and customized it in-house: 48%
+- Built entirely in-house: 29%
+- Built with a no/low code platform: 27%
+- Purchased an off-the-shelf solution: 26%
+
+Non-customizable off-the-shelf solutions and fully custom-built agents without outside help are the least used approaches.
+
+While fewer agents are being built from scratch, businesses use more agents when they can develop their own
+Businesses building their own AI agents are also significantly more likely to be using a larger number of agents in their operations. This group is split evenly between building their AI agents with code and using the support of no/low code tools.
+
+[Image: An infographic with several text boxes and statistics about building AI agents with no code.]
+[Description of the infographic:]
+The central theme is "AI agents built with no code".
+- A box states: "Businesses building custom AI agents with the help of no code" are "Most likely to have a transformational impact on business operations" and are "Least likely to be considered by slow AI adopters".
+- Another box indicates that "24% of businesses using no code for custom agents have 11+ AI agents".
+- A third box shows that "67% are using mostly or fully autonomous AI agents".
+
+This correlation may indicate that giving teams the ability to build and customize their own AI tools helps them use more of them in their work. When teams don't have to rely on sourcing vendors and hiring outside developers, they can more quickly apply AI to address specific challenges as they come up.
+
+Businesses developing their own AI agents with no/low code tools are also 33% more likely to report their agents are fully autonomous than those acquiring them in other ways. It may be that this type of platform-supported development encourages trust in AI tools.
+
+The software/tech industry is more willing to build AI agents with no/low code platforms (40%) or in-house with code (39%) when compared to other industries, which could be another reason why tech is reporting higher levels of success with AI than other industries.
+
+AI agents are used more by larger and more technical businesses
+AI agent adoption follows the same trend as general AI adoption, with larger companies using more agents. More than half of Enterprise organizations are actively using AI agents compared to only one-third of small businesses.
+
+Enterprise organizations are also using a larger number of AI agents, with 26% having 11+ agents deployed compared to 3% of small businesses and 9% of midsized businesses.
+
+Still, over 90% of all businesses using AI currently indicate that they are either actively using AI agents or planning to deploy them this year, so small and mid-sized businesses are quickly catching up.
+
+Trends by industry also follow the same patterns as general AI adoption. Tech is adopting at the highest rate, with 72% having already deployed agents, followed by manufacturing in second (45%).
+
+[Image: A bubble chart titled "Tech is way ahead of the adoption curve with AI agents".]
+[Description of the chart:]
+The chart, subtitled "AI agent use by industry", shows five bubbles of varying sizes, each representing an industry and its AI agent adoption rate.
+- Technology: 72%
+- Manufacturing: 45%
+- Retail: 43%
+- Construction: 42%
+- Other: 37%
+
+Challenges and barriers to AI adoption
+While overall, businesses are finding a lot of success with AI, there are still many barriers and challenges they're facing. Internal conflicts are happening within many organizations, not every leader feels fully informed about where to use AI or how to integrate it, and data privacy and security concerns persist across the board.
+
+Security is a dealbreaker
+
+What people are saying about AI security
+I think they need assurances that it is safe and will protect our data.
+I need to know what it's totally capable of before implementing it into our HR system in order to avoid risking the company data.
+All we have is just some privacy concerns we're afraid that the more information we put into it the more information that the AI will have about our customers.
+I need to know a few years down the line, people's data will still be safe.
+The tools currently available don't meet our security standards sufficiently.
+
+Half of the businesses surveyed cite data privacy and security concerns as their top barrier to AI adoption.
+
+Interestingly, security seems to be primarily table stakes for most businesses rather than a differentiator. Satisfying security standards is a non-negotiable when choosing to roll out an AI tool, but once businesses are satisfied that standards are being met, attention shifts to other factors.
+
+As businesses get deeper into AI implementation and move from experimenting with generative AI platforms towards more integrated solutions like AI agents, security drops significantly in the list of stated concerns.
+
+Lack of knowledge is the biggest challenge for many business leaders
+
+What people don't know about AI
+I am confused about how to use it to its optimal efficiency and don't know where to begin.
+It is innovative but hard to understand.
+I feel like I need to learn more about how it works.
+I would like to have videos to see how other companies are doing this.
+I'm not sure how this will exactly play into my career at this point.
+I don't really understand which functions can best be addressed by AI, so we're basically going by trial and error.
+I just need to see examples of AI working with other businesses to prove that it's beneficial and increases revenue.
+I feel like there is quite a bit we still need to learn about AI. Part of the problem is, in a lot of ways, we don't yet know what we need to learn in order to move forward with AI.
+More specific examples and data are needed to show how companies across various industries have implemented AI to improve their operations.
+
+I need to know how AI will help my work, how to set it up, how it keeps my data safe, if it will grow with my needs, and if the benefits are worth the cost...
+
+Lack of knowledge is a barrier to successful AI adoption for all three surveyed groups:
+- For AI Rejectors, lack of knowledge is the number one reason for their organization's resistance to AI. This uncertainty seems to lead many businesses to pass on AI, and many of them describe wanting to wait and see how it develops before trying it.
+- A large portion of AI Planners want to implement AI but aren't sure where to start. This group makes up 19% of our total surveyed respondents.
+- AI Adopters report challenges with more specific knowledge around AI use cases, tools, and approaches as they deepen their investment in AI. With implementing more custom solutions like AI agents, lack of knowledge supercedes security concerns, with 54% of businesses reporting lack of knowledge to be their top issue with rolling out AI agents.
+
+Smaller businesses seem to have a harder time gaining knowledge about AI, with 30% reporting they want to implement AI but don't know how compared to 18% of midsized companies and just 12% of Enterprises.
+
+Integration with existing tools and processes is a barrier to practical AI implementation
+
+What people are saying about AI integration
+Our information and assets are strewn across so many databases. We never know where to find the resources we have and need — we just don't know where to look. It seems like AI could help us find it, but I don't know how.
+Compatibility with legacy systems.
+(We need to know) how to integrate it into existing systems without disrupting what is already working.
+Our systems are old and not compatible with AI.
+I wish AI could more seamlessly integrate with existing systems and provide real-time, highly personalized insights without complex setup or training.
+
+"Integration with our systems" is ranked the number one factor businesses value in an AI vendor—ahead of output quality, security, and cost. As businesses move from considering whether or not to use AI to planning rollout and finding the right tools, concerns about disrupting existing processes and finding tools that work with legacy systems become more important.
+
+Some industries are having a harder time figuring out how to use AI
+
+What industries are having AI challenges
+I would love to use more of it but don't know how it can apply to the construction industry.
+There isn't really a use for it in construction. We still need laborers to do the work, a robot cannot do it.
+There aren't a lot of processes in our company that we can use AI for.
+I don't know how AI can help identify potential job applicants or potential subscribers to our publication.
+Security concerns. Trust in AI's quality output. No solutions for delivering goods in the logistics industry.
+
+AI implementation levels vary widely between industries. Understandably, the tech industry is significantly further in the AI adoption journey than others. Less tech-forward industries and labor-intensive fields have much lower levels of AI adoption and report struggling the most with a lack of knowledge and difficulty finding uses for AI within their businesses.
+
+[Image: A ranked list titled "Industries least likely to have any AI tools or AI agents implemented".]
+[Description of the list:]
+The image displays a numbered list from 1 to 5, with each item in a separate colored bar.
+1. Freight
+2. Hospitality
+3. Real estate
+4. Media
+5. Construction
+
+Transportation & logistics and manufacturing seem to have the hardest time identifying what AI technologies to use, with 19% and 17%, respectively, reporting that they have plans to implement AI but haven't yet been able to identify which tools they will use.
+
+The outlook across industries on AI's potential impact is largely positive, with no industry reporting less than 65% positive outlook anticipation, despite some reporting challenges in figuring out how to harness that impact.
+
+Internal conflicts are slowing down AI adoption
+
+What people are saying about internal AI conflicts
+We need to get our upper management convinced about AI.
+There are so many tools and functions - I'm satisfied with the output, but others in the org need convincing.
+I know how to use AI, I'm a millennial. I use ChatGPT almost daily and Copilot. It is our older employees who have no clue how to use it for efficiency.
+I am completely comfortable using AI, it's mostly people who don't understand the technology that have an issue.
+I think the problem is more in convincing the other department heads and upper management of its positive effects for us. I have done some research, and I see a lot of positive changes in AI for us.
+The biggest obstacle...is convincing some others of its beneficial impact it will have on all phases of our processes. It would stop the repetitive data entry, the statistical analysis of issues. It could brainstorm when we are facing a problem that seems catastrophic. It can do so many functions that I think the others don't believe it's capable of doing.
+
+Qualitative data also shows that there are conflicts within organizations that are slowing down AI adoption.
+
+A frequent and repeated blocker reported by internal champions of AI is resistance from upper management. Generational divides play a role. Millennials and younger employees describe themselves as already enthusiastically using AI at work, while older leadership doesn't understand or see the value in AI technology.
+
+Leaders who are skeptical about AI adoption or unsure of its value may want to consult their existing teams, especially early-adopting technical teams, to hear their experiences and ideas around AI adoption.
+
+Will AI take our jobs? Concerns exist throughout businesses
+
+What people are saying about AI & job concerns
+I'm worried about the future of my workers if AI gets to where we don't need them anymore.
+I'm trying to be a team player but I can easily see how this will replace a lot of people's jobs, a lot of friends that I've made at work.
+The fact it would put many people within the company out of work is another reason we are walking away from AI at the moment.
+Personally, I am very comfortable using it. There are people who believe AI will replace them, so they resist.
+While I can arguably see the pro side of AI I feel the cons outweigh them by a fair amount. Especially when considering privacy/safety and job replacement implications.
+
+13% of survey respondents mention job loss as a fear they have around AI adoption. Some mention concern for their own jobs, but many leaders are also concerned with losing their teams or colleagues. They also mention ethical concerns and worry about the impact on customer experience. Some leaders even report deciding not to use AI because they don't want to reduce their team size.
+
+Managers express the most concern about being replaced by AI and are the most distrusting of AI as a result. Managers have a much stronger preference for human-initiated or supervised AI, while Directors and above have a stronger preference for autonomous or semi-autonomous agents.
+
+One way leaders may be able to overcome AI resistance is by using more tools that keep a human in the loop and allow workers to audit and participate in AI processes.
+
+Most businesses prioritize increasing productivity over replacing workers with AI
+
+What people are saying about AI & their workforces
+We need to hire a dedicated team of individuals who solely work on AI.
+Unfortunately, it'll eliminate jobs behind the scenes, however, we will increase production therefore creating more jobs in the field.
+It can streamline the repetitive and mundane tasks that can free up others to do things that are more important.
+Improve revenue. Higher profit margin. Proficiency without laying off staff with increase (in) business volume and revenue."
+I wish I could have AI do all the preliminary work required to find and hire potential new employees so I could deal with other things that also require my attention.
+Ability to increase the workload and results without increasing workforce, saving considerably on costs and infrastructure.
+
+Most businesses state their primary goal is to improve the efficiency and productivity of their existing teams with AI rather than replacing them.
+
+Qualitatively, leaders do report anticipating changes to their workforce, but an equal number express anticipation that AI will add more specialized jobs, free up budget for additional roles, or just make existing jobs more focused on human-driven innovation.
+
+Given the levels of confusion and worry around what AI is going to mean for people's jobs, leaders who want to adopt AI may want to consider communicating with their teams about how AI can improve existing roles and create new ones as the business grows. This reassurance may help allay fears and get more workers on board with the rollout of new tech.
+
+Some businesses do aim to reduce their workforce with AI
+
+What people are saying about reducing headcount with AI
+(I want to) identify redundant or unnecessary employees and terminate them.
+I believe that, given enough time, AI (will) greatly improve our business, but it might reduce our workforce.
+I wish we could fully run the wages and payments department with AI and no human interaction to reduce labour costs
+I wish we could reduce rote, low-value work currently performed by team members.
+
+However, some fears about job loss aren't unsupported. A small but consistent rate of 6-7% of respondents say that they do explicitly aim to reduce their workforce using AI.
+
+Retail, Media, and Real Estate are the top industries where reducing their workforce is a goal. Midsized companies are more likely to report wanting to reduce their workforce, as are companies that are the most price-sensitive when considering AI vendors.
+
+Conclusion: Leadership plays a critical role in the successful rollout of AI
+We are in a critical stage of AI development in our workplaces. Businesses across the board are taking AI seriously as a tool, but not all of them are figuring out how to find success with it yet.
+
+These findings make clear that leadership is vital to the success of AI within businesses.
+
+Don't leave something as important as AI adoption up to individuals and teams. The most impactful AI implementations are being rolled out from the top down. Not only that, but the more successful tools are the ones that are being developed and deployed intentionally and systematically.
+
+They are tailored to your needs, targeted toward your pain points, and designed to increase efficiency across large swaths of your operations. Leaders also have the power and resources to invest in customized, integrated AI solutions that work more seamlessly with existing tools and processes.
+
+Leadership-level tools for better insight and decisions at the top are proving powerful. Custom AI agents that can be inserted directly into business processes are showing a meaningful impact. Partnerships with third-party experts, and giving teams no code tools they can use to fix their own problems independently are both helping businesses use AI more effectively.
+
+People aren't just tinkering with AI toys like ChatGPT. They're expecting you to introduce the tools they need to succeed. If your business wants to stay competitive, you, as a leader, should be employing all the tools you have at your disposal. In 2025, AI is clearly one of them.
+
+[Image: A black and white headshot of a smiling man in a collared shirt.]
+David Siegel CEO Glide
+"Artificial intelligence, like steam or nuclear fission, is a raw force awaiting its engine. It's not a finished product, but the animating force behind a new class of software tools that will redefine automation and productivity. We are in an auspicious moment, especially at Glide, where we have the opportunity to work with so many companies as partners in shaping the products and solutions around the raw force of AI to unlock business value."
+
+Study Methodology
+The results in this report are from an online survey of 1,071 respondents conducted from January 16 to 28, 2025.
+
+Respondents were:
+- Managers and senior business leaders; CEO/Owner/President, Chief Officer, VP, Director, or Manager
+- Of businesses with a headcount of 10 or more; Small (10-99), Midsize (100-999), and Enterprise (1,000+) Businesses
+- Across over 10 industries from 5 different English-speaking countries; United States, United Kingdom, Canada, Australia, and New Zealand
+
+Individuals and businesses surveyed were not Glide customers. The study was conducted with the assistance of Researchscape International. At each step in the survey research process, the research team followed best practices and used quality controls to minimize the impact of sources of error.
+
+Authors
+
+[Image: A black and white headshot of a smiling woman with shoulder-length hair.]
+Wren Noble
+Leading Glide's content, including The Column, Case Studies, and Video Content, Wren's expertise lies in AI, no code technology, business tools, and software marketing. She has produced research on AI in operations and innovation as a driver of technology adoption in businesses.
+
+[Image: The logo for Researchscape International, featuring a stylized capital 'R' inside a circle.]
+Researchscape International
+Researchscape International is a market-research firm that specializes in custom surveys and provides automated research tools. Founded in 2012, Researchscape focuses on an agile-research methodology, offering full-service research solutions with quick turnaround times as well as the ResearchStory analytical platform. In 2024, Researchscape International surveyed over 400,000 consumers and business professionals in 60+ countries.
+
+Glide
+Glide is a no code platform enabling businesses to create modern, AI-powered apps for hyperefficiency. From retail and manufacturing to logistics and sales, over 100,000 high-performing teams use Glide to accelerate their operations with real-time data visibility, intelligent automation, and intuitive interfaces tailored to their unique needs.
+
+glideapps.com
