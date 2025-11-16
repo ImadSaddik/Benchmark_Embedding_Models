@@ -1,0 +1,450 @@
+[
+  {
+    "chunk_id": 0,
+    "question": "What is the primary focus of organizations regarding generative AI according to the text?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "What are some of the key structural and process changes organizations are implementing to capture value from gen AI?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "Which types of companies are leading the way in making organizational changes for gen AI?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "What roles are senior leaders taking in the context of AI governance?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "What actions are organizations taking related to employees and AI deployment, besides redesigning workflows?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "What is the overall trend in AI adoption among organizations, encompassing both generative and analytical AI?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "How does the pace of change for AI adoption differ between large organizations (over $500 million in annual revenue) and smaller organizations?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "What types of risks are organizations working to mitigate in relation to gen AI?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "What is the primary factor most correlated with higher self-reported bottom-line impact from an organization's gen AI use?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "What percentage of organizations using AI report their CEO is responsible for overseeing AI governance, and how does this compare at larger organizations?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "Beyond CEO oversight, what other leadership roles are involved in AI governance, and how many leaders typically share this responsibility?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "What organizational attribute has the greatest effect on an organization's ability to achieve EBIT impact from its use of generative AI?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "What proportion of organizations that use generative AI have fundamentally redesigned at least some of their workflows?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "According to the McKinsey commentary, why is C-suite and board commitment crucial for effective AI implementation, and why is delegating it often a 'recipe for failure'?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "What are the main reasons why AI transformation requires executive-level decision-making regarding resources and change management?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "As organizations become more fluent with AI, what will be the future focus of leadership concerning its integration?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What is the overall approach organizations are taking towards centralizing elements of their AI deployment?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "Which AI deployment elements are most commonly fully centralized by organizations, according to the survey findings?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "Which AI deployment elements are most frequently managed using a hybrid or partially centralized model?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "How does an organization's annual revenue (specifically less than $500 million) influence the centralization of tech talent and AI solution adoption?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What percentage of organizations report fully centralizing their risk and compliance efforts for AI deployment?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "According to Exhibit 1, what proportion of organizations manage their AI strategy through a hybrid model?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What are the percentages for fully centralized, hybrid, and fully distributed models for 'Adoption of AI solutions'?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What is the most common centralization model for tech talent in AI deployment, and what percentage of organizations use it?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "What is the general trend regarding how organizations monitor gen AI outputs?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "What percentage of organizations report that employees review all content created by gen AI before it is used?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "What proportion of organizations review 20 percent or less of gen-AI-produced content?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "Which industries are more likely to review all gen AI outputs?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "What was the source of the data presented regarding the review of gen AI outputs?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "According to Exhibit 2, what percentage of organizations review between 41% and 60% of gen AI outputs?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "What was the effective sample size (n) for the survey respondents whose organizations regularly use gen AI?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What is the general trend regarding organizations' efforts to mitigate gen-AI-related risks?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "Which specific gen-AI-related risks are organizations most actively increasing their mitigation efforts for, according to the survey data?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "Based on Exhibit 3, how have mitigation efforts for intellectual property infringement risks related to gen AI evolved between April 2023 and July 2024?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "Which gen-AI-related risks have shown relatively stable mitigation percentages across the surveyed periods, as detailed in Exhibit 3?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "In what ways do larger organizations differ from other organizations in their approach to mitigating gen-AI-related risks?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "According to Alex Singla, what is the most important lesson learned about generative AI for achieving genuine and lasting competitive advantage?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "Why does Alex Singla recommend pursuing end-to-end solutions and an enterprise-level transformative vision for gen AI, rather than a piecemeal approach?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "How does adopting an overarching, enterprise-level vision for gen AI influence aspects like data capture, model building, and infrastructure according to McKinsey commentary?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What role does top team alignment play in the success of gen AI transformations, as highlighted by Alex Singla?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What is the overall state of adoption and scaling practices for generative AI across organizations?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What is identified as the most impactful gen AI adoption and scaling practice on the bottom line?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "How do larger organizations compare to smaller organizations in following gen AI adoption and scaling best practices?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "Which specific gen AI adoption practices show the biggest percentage difference in implementation between larger and smaller organizations?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What is the significance of establishing a clearly defined road map for driving gen AI adoption, especially for larger organizations?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "According to Bryce Hall, what is the evolving focus of executives regarding generative AI investments?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What are the key characteristics of companies that are successfully capturing value from generative AI, beyond simply focusing on adoption and scaling?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What percentage of companies report tracking well-defined KPIs for their gen AI solutions?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "How has AI adoption impacted hiring trends for AI-related roles in organizations?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "Which specific AI-related roles are organizations significantly less likely to hire now compared to early 2024?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What new risk-related specialist roles are organizations hiring due to AI deployment, and what percentage of respondents report these hires?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "For which AI-related roles do larger companies show a higher propensity to hire compared to smaller organizations?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What percentage of respondents whose organizations use AI anticipate needing more data scientists in the upcoming year?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "How has the reported difficulty in hiring for most AI-related roles changed over the past two years?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "Which specific AI-related role experienced an increase in hiring difficulty from 2023 to 2024, and what was its reported difficulty in 2024?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "How do organizations expect reskilling efforts related to AI to change in the next three years compared to the past year?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What are the primary ways employees are spending the time saved through generative AI automation?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "Which type of organization is more prone to reducing employee numbers as a result of time saved by generative AI?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is the most common prediction among organizations regarding generative AI's impact on their overall workforce size in the next three years?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "Which specific industry is an outlier in predicting workforce reduction due to generative AI compared to expecting no change?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "How do C-level executives' predictions for head count impact from all AI (generative and analytical) differ from those of middle managers?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "In which business functions are respondents most likely to predict a decrease in head count as a result of generative AI use?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "For which business functions are respondents more likely to anticipate an increase in head count due to generative AI deployment?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "According to Lareina Yee's commentary, what does the survey suggest about the common fear that generative AI will be a 'job killer'?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What two factors are suggested in the McKinsey commentary as potential reasons for the easing difficulty in finding AI talent?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What percentage of organizations reported using AI in at least one business function in late 2024, and how does this compare to earlier periods in the year and the previous year?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "Which three business functions are most frequently cited by organizations for their adoption of AI?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "Which business function experienced the most significant increase in AI use over the past six months?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "According to the latest survey, what is the average number of business functions in which organizations are using AI?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "How has the definition of 'AI use' for the McKinsey Global Surveys changed from 2017 to the period since 2020?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "Based on Exhibit 8, what was the percentage of organizations using generative AI in late 2024?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "Referring to Exhibit 9, what percentage of organizations reported using AI in two or more business functions in the second half of 2024?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What are some of the specific business functions included as answer choices for AI adoption in the survey mentioned in Exhibit 9?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "What is the current percentage of organizations regularly using generative AI in at least one business function, and how has this metric changed since early 2024?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "According to the survey, which business functions are most frequently utilizing generative AI overall?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "How does the deployment of generative AI vary by industry and company size?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "Based on Exhibit 10, which industry demonstrates the highest overall adoption of generative AI in at least one function?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "Which specific business function is consistently the most common area for generative AI deployment across most industries, as shown in Exhibit 10?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "In which business function does the Media and Telecommunication industry show its highest usage of generative AI, according to Exhibit 10?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "What definition of generative AI was provided to survey participants?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "How has the individual use of generative AI by surveyed executives changed from 2023 to the second half of 2024?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "Which management level reported the highest percentage of regular generative AI use at work in the second half of 2024?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "What was the percentage of C-level executives regularly using generative AI at work in the second half of 2024?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "Among the different age groups, which one reported the highest percentage of regular generative AI work use in the second half of 2024?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "Which industry showed the highest combined percentage of respondents regularly using gen AI for work (including outside of work) in the second half of 2024?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "Which geography had the highest percentage of respondents with 'No exposure' to gen AI tools in the second half of 2024?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "What was the average overall reduction in respondents having 'No exposure' to gen AI tools from 2023 to the second half of 2024?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "What type of content is most commonly created by organizations using generative AI?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "What percentage of respondents indicate their organizations use generative AI to create images?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "Besides text, images, and computer code, what other modalities are organizations experimenting with using generative AI?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "Which industry sector utilizes the widest range of generative AI outputs?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "Which industries show a higher propensity to use generative AI for creating images and audio?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "What percentage of organizations use generative AI to create computer code?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "What survey is the source of the data presented on generative AI content creation?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "How has the reported value creation from generative AI within business units evolved in 2024?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "What comparison is drawn between gen AI's reported revenue increases and those from analytical AI activities?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "According to Exhibit 12, which business function showed the highest percentage increase in reported revenue from gen AI use between early and late 2024?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "Why is a comprehensive approach across both AI and gen AI solutions important for companies to capture full potential value?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "What is the current reported impact of gen AI on enterprise-level EBIT, despite increasing cost reductions within business units?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "According to Exhibit 13, which business function reported the highest percentage of cost decrease from gen AI use in the second half of 2024?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "What key observations did Michael Chui make regarding C-level executives' and employees' use of gen AI?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "What is identified as the \"next frontier for AI innovation\" in the McKinsey commentary?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "What actions are larger companies taking to better realize value from gen AI and mitigate associated risks?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "Who are the global coleaders of QuantumBlack, AI by McKinsey?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "Who is the director of the McKinsey Global Institute mentioned in the text?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "Who edited this article?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "When was the online survey conducted for this research?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "How many participants and nations were involved in the online survey?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What characteristics did the participants in the online survey represent?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "How was the survey data weighted to adjust for differences in response rates?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What is the copyright date for this article?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What is the purpose of the QR code described at the end of the text?"
+  }
+]
