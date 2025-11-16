@@ -1,0 +1,1978 @@
+[
+  {
+    "chunk_id": 0,
+    "question": "What is the main subject of the industrial end-of-studies project?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "What title or degree is being sought with this project?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "Who prepared and presented this industrial end-of-studies project?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "On what date was the project presented to the jury?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "Which academic year does this project correspond to?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "Who were the members of the jury and what were their roles and affiliations?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "Which institutions are associated with the logos and jury members mentioned in the document?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "Who is Youssef JOUANE, and what was his role in the internship?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "What contributions did Tawfik MASROUR make as the academic supervisor?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "For what reason is the CCCA-BTP acknowledged?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "What support did 'es Compagnons du Devoir provide for the research?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "How did Campus BTP CFA OCCITANIE de Toulouse-Muret contribute to the research?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "What assistance did the Solcast team offer to the researchers?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What is the primary focus of the AI tool developed in this internship report?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "How was the dataset for training the AI model expanded and improved upon previous research?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What tool was used to generate synthetic data for the model's dataset?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What types of information were encompassed in the synthetically generated data?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What was the quantitative impact of the dataset expansion on its size?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What methodological shift was made regarding energy estimation, and what advantages does it offer?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "Which library was integrated to measure the carbon emissions associated with model training?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What was the significance of integrating the CodeCarbon library into the project?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "Which machine learning models were identified as the most efficient and accurate for predicting PV energy production?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "How were the developed models validated to demonstrate their real-world applicability?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "Quel est l'objectif principal du rapport de stage pr\u00e9sent\u00e9 ?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "Comment l'ensemble de donn\u00e9es utilis\u00e9 pour l'entra\u00eenement du mod\u00e8le d'IA a-t-il \u00e9t\u00e9 \u00e9largi ?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "Quel outil a \u00e9t\u00e9 utilis\u00e9 pour g\u00e9n\u00e9rer les donn\u00e9es synth\u00e9tiques afin d'enrichir l'ensemble de donn\u00e9es ?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "Quel changement majeur a \u00e9t\u00e9 op\u00e9r\u00e9 dans l'approche de l'estimation de la production d'\u00e9nergie, et quels en sont les avantages ?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "Quelle biblioth\u00e8que a \u00e9t\u00e9 int\u00e9gr\u00e9e pour mesurer l'impact environnemental de l'entra\u00eenement du mod\u00e8le ?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "Quels mod\u00e8les d'apprentissage automatique se sont av\u00e9r\u00e9s les plus efficaces et pr\u00e9cis pour la pr\u00e9diction de la production d'\u00e9nergie ?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "Comment la performance des mod\u00e8les d\u00e9velopp\u00e9s a-t-elle \u00e9t\u00e9 valid\u00e9e ?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 1 illustrate about global electricity demand from data centres, AI, and cryptocurrencies for 2019-2026?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "Which sectors are covered by the Fit for 55 package, as depicted in Figure 2?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What is the focus of the French strategy for reaching net-zero by 2050, according to Figure 3?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 4 display?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 5 provide an overview of?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What is depicted in Figure 6?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 7 present?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 8 illustrate concerning WinLab'?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What is represented in Figure 9?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "How are CESI teacher-researchers distributed by campus, according to Figure 10?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 11 show about CESI LINEACT?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What is the organization of CESI LINEACT research, as depicted in Figure 12?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What system is illustrated in Figure 13?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 14 show about the Micro Learning Factory?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 15 represent concerning CESI platforms?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What robot is presented in Figure 16?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What type of system is illustrated in Figure 17 on a house?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What are the key losses identified in a PV system, according to Figure 18?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What forecasting model is proposed by Alomari et al. in Figure 19?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What research framework is proposed by Bowoo et al. in Figure 20?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 21 detail regarding a prediction framework?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 22 illustrate about variables?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 23 provide an overview of concerning the BIM-AITIZATION approach?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What is presented in Figure 24?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 25 offer an overview of?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 26 demonstrate regarding IFC files in BIM Vision?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What example is provided in Figure 27 concerning BIM Vision?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 28 showcase the use of?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What problem is showcased in Figure 29?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What data process is illustrated in Figure 30?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 31 depict regarding RNN cells?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What is shown in Figure 32 concerning LSTM cells?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 33 illustrate about GRU cells?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 34 provide an overview of regarding building datasets?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What process is shown in Figure 35 for data?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What architectures are presented in Figure 36?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What do the results of the experiments in Figure 37 summarize?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What comparison is made in Figure 38 on the test set?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What is shown in Figure 39?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "How is the CESI building represented in BimSolar in Figure 40?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 41 illustrate about the CESI building's energy production in BimSolar?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What comparison is made in Figure 42 for the CESI building's energy production?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What comparison does Figure 43 make for the Toulouse building's energy production?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 44 provide an overview of concerning the NASA POWER project?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 45 demonstrate about the NASA POWER API?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 46 illustrate about data from the NASA POWER API?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What is depicted in Figure 47?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What process is demonstrated in Figure 48 using Python for the Solcast API?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 49 illustrate regarding solar panels?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What is shown in Figure 50 within BimSolar?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 51 illustrate about drones and photogrammetry?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 52 provide an example of that is generated by a drone?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 53 illustrate on a map of France?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What general pipeline is outlined in Figure 54 for synthetic data generation?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 55 provide an overview of regarding the synthetic dataset?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 56 explain about the CodeCarbon library?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 57 illustrate about the Random Forest algorithm?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 58 depict about the Gradient Boosting algorithm?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What comparison is presented in Figure 59 concerning the XGBoost model?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 60 show about the CESI building inside BimSolar?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What comparison does Figure 61 make for the CESI building using XGBoost and BimSolar?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 62 show about the Les compagnons du devoir building in Strasbourg?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "How is the Les compagnons du devoir building depicted in Figure 63 within BimSolar?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What comparison is presented in Figure 64 for the Les compagnons du devoir building?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What is depicted in Figure 65?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What comparison does Figure 66 illustrate for the CCCA-BTP building?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 67 represent as the first part of the data hub section?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What process is shown in Figure 68 within the data hub section?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What specific mode for solar panel selection is illustrated in Figure 69?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 70 show regarding the final part of the data hub section?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What is displayed in Figure 71 within the data hub section?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What options are presented in Figure 72 within the prediction section?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 73 illustrate in the prediction section?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What comparison is shown in Figure 74 within the prediction section?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 75 represent as the initial part of the decarbonization section?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What score is presented in Figure 76 within the decarbonization section?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What does Figure 77 illustrate about carbon emissions in the decarbonization section?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What rate is shown in Figure 78 within the decarbonization section?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What information does Table 1 provide regarding the parameters in the dataset?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What are the key characteristics of the selected solar panels, as described in Table 2?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What does Table 3 show about the performance of the models on the test set?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What carbon emissions were generated by training the models, according to Table 4?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What is the performance of the models on the CESI building, as detailed in Table 5?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "Table 6 presents the performance of the models on which specific building?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "How do the models perform on the CCCA-BTP building, as indicated in Table 7?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does AC stand for?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does AI represent?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is the meaning of IA?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does AOCDTF refer to?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is AR an acronym for?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does ANN mean?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is BIM?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does BIPV stand for?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is BR in this context?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does CAVE stand for?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is CAMS?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does CFA represent?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does CNN mean?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does CO2 stand for?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is CCCA-BTP?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does DC refer to?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does DL stand for?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is a DNN?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does DNI mean?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does DHI signify?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does EU stand for?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is FFNN?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does GBR represent?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is GHI?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does GR stand for?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is GRNN?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does GRU mean?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does IFC stand for?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does IEA refer to?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is IIoT?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does JENII mean?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does LM stand for?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is LSTM?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does MAE represent?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does MAPE stand for?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is ML?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does MLF refer to?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does MR mean?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does MSE stand for?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is NOCT?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does NWP stand for?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is OPDS?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does PV refer to?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does PSE mean?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does RF stand for?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does ROI represent?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is RTE?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does ROS mean?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does SNBC stand for?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does STC refer to?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does SVM mean?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does SVR stand for?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is SVMR?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does TWh represent?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What does VR stand for?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is XGBR?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What is the primary context and motivation for the project?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What are the main objectives of the project?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What are the core missions and vision of CCCA-BTP?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "How does CCCA-BTP integrate digital learning and innovation?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What is the organizational structure and what are the research teams of the CESI LINEACT laboratory?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What technological platforms are utilized by the CESI LINEACT laboratory?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "Which research projects, such as JENII and Tiago++ robots, are undertaken by the CESI LINEACT laboratory?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "Why is the prediction of energy production, especially from renewable and solar sources, considered important?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What are the main challenges associated with predicting energy production?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "How is Artificial Intelligence applied to the prediction of energy production?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What limitations exist in current approaches to energy production prediction and how can they be improved?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "How is data prepared for the reimplementation of Yousef & Ilyas\u2019 work, including meteorological and BIM data?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What data processing steps are involved in the existing approach, such as handling missing values, normalizing, and splitting data?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What types of sequence models are used in the existing modeling approach, specifically Recurrent Neural Networks, Long Short-Term Memory networks, and Gated Recurrent Units?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What were the experimental settings, results, and identified limitations when reproducing the existing approach?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What are the sources and characteristics of the synthetic meteorological data (NASA Power, Solcast) and photovoltaic data used in the novel approach?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What specific BIM data is needed, how is it acquired, and what challenges are faced in its acquisition for the novel approach?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What characterizes the variability and size of the data used in the novel approach?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What machine learning models, including Random Forest, Gradient Boosting, and XGBoost, are employed in the novel modeling approach?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What are the key details of the training process and the results obtained in the novel approach?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What are the specific study cases examined in the novel approach, such as the CESI building, Les compagnons du devoir, and CCCA-BTP Muret?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What are the main sections and functionalities of the web application, including the data hub, prediction section, and decarbonization section?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What are the primary summaries and conclusions derived from the current work?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What are the future prospects for this research?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "What factors are driving the global transition towards renewable energy sources?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "Why are solar photovoltaic (PV) systems, particularly building-integrated photovoltaics (BIPV), highlighted as a promising solution?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "What is the critical importance of accurately predicting energy production from PV systems?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "What is the main objective of the AI-powered tool detailed in this report?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "How is the report structured, and what topics are covered in the initial chapters?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "What is explored in the literature review presented in Chapter 2?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "What does Chapter 3 aim to achieve regarding the existing approach by Youssef & Ilyas?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "What are the key components of the novel approach detailed in Chapter 4?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "Which tool is used for generating a synthetic dataset in the novel approach?"
+  },
+  {
+    "chunk_id": 8,
+    "question": "What functionalities does the user-friendly web application developed in Chapter 5 offer?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "What is the primary subject of Chapter 1?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "How many main parts are there in Chapter 1?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "What content is presented in the first part of Chapter 1?"
+  },
+  {
+    "chunk_id": 9,
+    "question": "Which organizations or entities are introduced in the second part of Chapter 1?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "What is the central challenge in the ongoing energy transition related to electricity?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "What is the International Energy Agency's (IEA) forecast for global electricity demand growth through 2026, and what sectors are driving this increase?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "How much electricity did data centers consume in 2022, and what is their estimated consumption by 2026?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "What is the primary objective of the European Union's 'Fit for 55' package?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "What is the significance of buildings in terms of energy consumption and greenhouse gas emissions within the EU?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "What specific requirements does the 'Fit for 55' package introduce for the installation of solar technologies on new and renovated buildings?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "What is the target for energy consumption reduction in France by 2050 under the National Low-Carbon Strategy (SNBC)?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "What is the primary purpose of the Artificial Intelligence tool being developed in this project?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "What is the ultimate goal of this project in relation to CCCA-BTP's real estate parc?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "What is the initial step in the project's development process, following the definition of objectives?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "What subsequent steps are planned for developing the project's own solution after reimplementing existing work?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "Which specific buildings will be used as study cases to evaluate the model's performance?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "What functionalities will the final web application provide to users?"
+  },
+  {
+    "chunk_id": 10,
+    "question": "Who provided the financing for this internship project?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "What is CCCA-BTP and what is its primary mission in France?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "Who established the CCCA-BTP and for what purpose?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "What is the core commitment of CCCA-BTP regarding professional development for young people in the BTP sectors?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "List some key objectives and actions of the CCCA-BTP in advancing vocational training."
+  },
+  {
+    "chunk_id": 11,
+    "question": "What expertise does the CCCA-BTP hold in training engineering?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "How does the CCCA-BTP contribute to European and international projects in vocational training?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "What digital learning solutions does CCCA-BTP offer to construction training organizations?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "Describe C\u2019KI L'BOSS, its purpose as a serious game, and the entrepreneurial principles it teaches."
+  },
+  {
+    "chunk_id": 11,
+    "question": "What are the key design goals and accessibility features of the C\u2019KI L'BOSS game?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "What is Aptyce, and how do Centre de formation d\u2019apprentis (CFA) instructors use it?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "What are the main features of the Aptyce platform?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "When was WinLab' created, and what is its role in fostering innovation within the BTP sector?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "As a 'trend scout,' what support and resources does WinLab' provide to training organizations and construction companies?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "How does Ubeton's platform revolutionize concrete usage in construction projects?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "What service does Carbon Saver offer to promote eco-design in construction, and what is its flagship product?"
+  },
+  {
+    "chunk_id": 11,
+    "question": "What comprehensive solution does Renalto provide for building renovation professionals?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "When was CESI LINEACT established and when was it designated as a Research Unit?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What is the core mission and research vision of CESI LINEACT?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "How does CESI LINEACT support CESI's educational programs and their transformation?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What kind of transdisciplinary approach does CESI LINEACT utilize in its research?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What is the geographical scope of CESI LINEACT's activities in France, and how many sites does it operate across?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What is the approximate composition of CESI LINEACT's personnel as of March 2024?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "Who leads the National Research and Innovation Directorate at CESI LINEACT?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What are the two main research teams at CESI LINEACT and their corresponding application domains?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What scientific disciplines are primarily involved in the 'Learning and Innovation' research team?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What scientific domains are the focus of the 'Engineering and Digital Tools' research team?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "Which three application domains do both research teams at CESI LINEACT develop their work in?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What are the three main axes that structure the research conducted at CESI LINEACT?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What specific features characterize the 'Industry of the Future' platform located at the CESI campus in Rouen?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "How do Augmented Reality (AR) and Virtual Reality (VR) technologies, especially when coupled with digital twins, benefit research and industry at CESI LINEACT?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What advanced AR/VR equipment, including a CAVE system, is available at one of CESI's campuses?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What is the role of robotics in CESI LINEACT's research and how many robots have been distributed across campuses?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What is the purpose of the Micro Learning Factory (MLF) in Strasbourg?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What is the main objective of the JENII project and what does its acronym stand for?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "Which institutions are part of the consortium collaborating on the JENII project?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "What features do the acquired Tiago++ humanoid robots possess, and how are they used in both pedagogy and research?"
+  },
+  {
+    "chunk_id": 12,
+    "question": "How does the integration of Tiago++ robots with the Robot Operating System (ROS) foster collaboration in the scientific community?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "What is the primary focus of the project discussed in this chapter?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "What factors are driving the growing demand for electricity and the urgent need for sustainable energy solutions?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "Which key initiatives underscore the importance of reducing greenhouse gas emissions and fostering renewable energy sources?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "What is the mission of the CCCA-BTP association?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "What are the main research areas of the CESI LINEACT laboratory?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "What will be the subject of the subsequent chapters of this project?"
+  },
+  {
+    "chunk_id": 13,
+    "question": "How is the CESI LINEACT laboratory structured, and what does it encompass?"
+  },
+  {
+    "chunk_id": 14,
+    "question": "What is the primary focus of the literature review presented in Chapter 2?"
+  },
+  {
+    "chunk_id": 14,
+    "question": "What topics related to renewable energy and machine learning will be discussed in this chapter?"
+  },
+  {
+    "chunk_id": 14,
+    "question": "What are the main challenges associated with predicting energy production of PV systems?"
+  },
+  {
+    "chunk_id": 14,
+    "question": "What role does synthetic data generation play in enhancing machine learning models according to the literature review?"
+  },
+  {
+    "chunk_id": 14,
+    "question": "What environmental considerations regarding training machine learning models will be explored?"
+  },
+  {
+    "chunk_id": 15,
+    "question": "What role do renewable energy sources, particularly solar energy, play in the ongoing energy transition?"
+  },
+  {
+    "chunk_id": 15,
+    "question": "What are Building-Integrated Photovoltaics (BIPV) systems and what benefits do they offer to the built environment?"
+  },
+  {
+    "chunk_id": 15,
+    "question": "How does an inverter function within a BIPV system, and how is excess electricity typically handled?"
+  },
+  {
+    "chunk_id": 15,
+    "question": "Why are accurate predictions of energy production from PV systems essential for optimizing performance and economic viability?"
+  },
+  {
+    "chunk_id": 15,
+    "question": "What are some of the key factors that make predicting energy production from PV systems a complex task?"
+  },
+  {
+    "chunk_id": 15,
+    "question": "List at least five specific types of energy losses that can occur in a solar PV system, as described in the text."
+  },
+  {
+    "chunk_id": 15,
+    "question": "What modeling techniques and data-driven approaches are researchers exploring to overcome challenges in energy production predictions?"
+  },
+  {
+    "chunk_id": 16,
+    "question": "What is the general purpose of using machine learning and deep learning in predicting energy production for PV systems?"
+  },
+  {
+    "chunk_id": 16,
+    "question": "What algorithms did Alomari et al. [18] propose for predicting next-day PV power from real-time weather data?"
+  },
+  {
+    "chunk_id": 16,
+    "question": "What was the primary goal of the forecasting model developed by Alomari et al. [18] concerning the stability of grid-connected PV power plants?"
+  },
+  {
+    "chunk_id": 16,
+    "question": "What type of machine learning technique did Alomari et al. [18] employ to map non-linear inputs for PV power forecasting?"
+  },
+  {
+    "chunk_id": 16,
+    "question": "How does the lightweight hybrid model proposed by Bowoo et al. [19] combine different data sources for hourly solar PV generation prediction?"
+  },
+  {
+    "chunk_id": 16,
+    "question": "What is the purpose of defining Regions of Interest (ROIs) in the model by Bowoo et al. [19] for solar PV generation forecasting?"
+  },
+  {
+    "chunk_id": 16,
+    "question": "Describe the two main processing modules in the research framework presented by Bowoo et al. [19] for predicting solar PV generation."
+  },
+  {
+    "chunk_id": 16,
+    "question": "What is the motivation behind Luo et al.'s [20] multi-objective prediction framework for building energy management?"
+  },
+  {
+    "chunk_id": 16,
+    "question": "Which three machine learning techniques were investigated by Luo et al. [20] for their multi-objective prediction task of building energy loads and BIPV power production?"
+  },
+  {
+    "chunk_id": 16,
+    "question": "What advantages does a multi-objective framework offer over separate models when predicting various building energy loads and BIPV power production simultaneously?"
+  },
+  {
+    "chunk_id": 16,
+    "question": "What were the key findings regarding the performance of the ANN-based and SVM-based models in Luo et al.'s [20] study concerning accuracy and computation time?"
+  },
+  {
+    "chunk_id": 16,
+    "question": "What was the motivation for Pamela et al. [21] to develop a new technique for forecasting the 24-hour ahead stochastic energy output of PV systems?"
+  },
+  {
+    "chunk_id": 16,
+    "question": "What types of variables were used as dependent and independent variables in Pamela et al.'s [21] study on PV system energy output prediction?"
+  },
+  {
+    "chunk_id": 16,
+    "question": "What was the main conclusion regarding the performance of hybrid models compared to single-stage models in Pamela et al.'s [21] research for PV forecasting?"
+  },
+  {
+    "chunk_id": 16,
+    "question": "Which three machine learning techniques did Abhishek et al. [22] compare for predicting the power output of solar PV panels?"
+  },
+  {
+    "chunk_id": 16,
+    "question": "What environmental factors did Abhishek et al. [22] investigate for their impact on PV panel output?"
+  },
+  {
+    "chunk_id": 16,
+    "question": "Which machine learning model was identified as the top-performing one in Abhishek et al.'s [22] study for solar PV panel output power prediction, and what was its R\u00b2 value?"
+  },
+  {
+    "chunk_id": 16,
+    "question": "What criteria guided the selection of SVMR, GR, and MR techniques by Abhishek et al. [22] for their study on solar PV prediction?"
+  },
+  {
+    "chunk_id": 17,
+    "question": "What were the common limitations identified in previous solar PV energy prediction studies?"
+  },
+  {
+    "chunk_id": 17,
+    "question": "How does this research address the limitation of limited and non-diverse datasets in solar PV energy prediction?"
+  },
+  {
+    "chunk_id": 17,
+    "question": "What type of data, often neglected in existing research, is integrated into this study's dataset to improve PV energy production predictions?"
+  },
+  {
+    "chunk_id": 17,
+    "question": "What is the key difference in approach between this research and previous studies regarding estimating future energy production, and what is its benefit?"
+  },
+  {
+    "chunk_id": 17,
+    "question": "How does the current work address the lack of analysis regarding the environmental impact of model training in prior research?"
+  },
+  {
+    "chunk_id": 17,
+    "question": "What user-friendly tool has been developed to facilitate the application of this research's findings in real-world scenarios?"
+  },
+  {
+    "chunk_id": 17,
+    "question": "What specific building information is incorporated through BIM data to enhance the model's understanding of energy production potential?"
+  },
+  {
+    "chunk_id": 17,
+    "question": "Which library is utilized to measure the energy consumption and carbon emissions during model training in this research?"
+  },
+  {
+    "chunk_id": 18,
+    "question": "What was the main topic of the literature review conducted in this chapter?"
+  },
+  {
+    "chunk_id": 18,
+    "question": "Why are accurate energy production predictions important for photovoltaic (PV) systems?"
+  },
+  {
+    "chunk_id": 18,
+    "question": "What is the potential benefit of using synthetic data generation in the context of machine learning models for PV systems?"
+  },
+  {
+    "chunk_id": 18,
+    "question": "What environmental factor related to machine learning models was discussed in the chapter?"
+  },
+  {
+    "chunk_id": 18,
+    "question": "What are the key limitations in existing research that this work aims to address?"
+  },
+  {
+    "chunk_id": 18,
+    "question": "List the specific approaches this work will take to develop more accurate and sustainable AI-powered tools for PV energy prediction."
+  },
+  {
+    "chunk_id": 18,
+    "question": "What is the ultimate goal of developing improved AI-powered tools for predicting PV system energy production?"
+  },
+  {
+    "chunk_id": 20,
+    "question": "What are the two main problems discussed in the modeling phase of Youssef & Ilyas' research?"
+  },
+  {
+    "chunk_id": 20,
+    "question": "Explain the difference between forecasting and prediction in the context of energy production modeling."
+  },
+  {
+    "chunk_id": 20,
+    "question": "According to the text, which specific problem, forecasting or prediction, did Youssef and Ilyas focus on in their modeling section?"
+  },
+  {
+    "chunk_id": 20,
+    "question": "What is the primary method used to structure data for training models to give accurate forecasts, and why is this method important?"
+  },
+  {
+    "chunk_id": 20,
+    "question": "How are input and output data defined when structuring time series data into windows for forecasting?"
+  },
+  {
+    "chunk_id": 20,
+    "question": "How does the shape of a dataset change after splitting it into windows of size 'w' from an original shape of (n, m)?"
+  },
+  {
+    "chunk_id": 20,
+    "question": "What are sequence models, and why are they considered suitable for forecasting tasks?"
+  },
+  {
+    "chunk_id": 20,
+    "question": "Name three common types of sequence models mentioned that are well-suited for time series data."
+  },
+  {
+    "chunk_id": 20,
+    "question": "What is the main advantage of Recurrent Neural Networks (RNNs) in handling sequential data?"
+  },
+  {
+    "chunk_id": 20,
+    "question": "Describe the 'vanishing gradient problem' in RNNs and its consequence for learning long-term dependencies."
+  },
+  {
+    "chunk_id": 20,
+    "question": "How do Long Short-Term Memory (LSTM) networks address the long-term dependency problem that traditional RNNs face?"
+  },
+  {
+    "chunk_id": 20,
+    "question": "What are the main components of an LSTM module, and what is the role of the cell and the three gates?"
+  },
+  {
+    "chunk_id": 20,
+    "question": "Explain the function of the forget gate, input gate, and output gate within an LSTM cell."
+  },
+  {
+    "chunk_id": 20,
+    "question": "What are Gated Recurrent Units (GRUs), and how do they generally compare to LSTMs in terms of architecture and training?"
+  },
+  {
+    "chunk_id": 20,
+    "question": "What are the two types of gates found in a GRU, and what is the purpose of each gate?"
+  },
+  {
+    "chunk_id": 20,
+    "question": "What is the limitation on the forecasting horizon for the models discussed, and what causes this limitation?"
+  },
+  {
+    "chunk_id": 21,
+    "question": "What was the initial and expanded size of the dataset used for the experiments, including the number of buildings and features?"
+  },
+  {
+    "chunk_id": 21,
+    "question": "What specific features are included in the dataset, according to the pandas DataFrame screenshot?"
+  },
+  {
+    "chunk_id": 21,
+    "question": "How is the dataset divided into training, validation, and testing splits, and what is the rationale behind this splitting method?"
+  },
+  {
+    "chunk_id": 21,
+    "question": "What preprocessing steps are applied to the data, and how does windowing affect the input shape for the models?"
+  },
+  {
+    "chunk_id": 21,
+    "question": "Which three distinct deep learning models are trained, and what are the appropriate input shapes for each?"
+  },
+  {
+    "chunk_id": 21,
+    "question": "Describe the training parameters used for the deep learning models, including the optimizer, learning rate, loss function, epochs, and batch size."
+  },
+  {
+    "chunk_id": 21,
+    "question": "What evaluation metrics are used to assess the performance of both deep learning and machine learning models?"
+  },
+  {
+    "chunk_id": 21,
+    "question": "Which deep learning models showed superior performance across all evaluation metrics, and what specific values did ConvLSTM1D achieve?"
+  },
+  {
+    "chunk_id": 21,
+    "question": "Which model performed the worst among all tested models, and what were its key performance metrics?"
+  },
+  {
+    "chunk_id": 21,
+    "question": "How do the visual predictions of the Random Forest and ConvLSTM1D models compare on the unseen test set?"
+  },
+  {
+    "chunk_id": 21,
+    "question": "What software was used to simulate energy production for the CESI building, and how did the model's predictions align with these simulations?"
+  },
+  {
+    "chunk_id": 21,
+    "question": "What are the three primary limitations identified for the trained models regarding solar panel types, geographical location, and installation position?"
+  },
+  {
+    "chunk_id": 21,
+    "question": "How does the example of the Toulouse building illustrate the model's limitations?"
+  },
+  {
+    "chunk_id": 22,
+    "question": "What was the foundation for the work discussed in the conclusion?"
+  },
+  {
+    "chunk_id": 22,
+    "question": "What key distinction was highlighted when reimplementing Youssef & Ilyas' approach?"
+  },
+  {
+    "chunk_id": 22,
+    "question": "What are the potential areas for improving the models mentioned?"
+  },
+  {
+    "chunk_id": 22,
+    "question": "What advantages does shifting to a prediction problem offer?"
+  },
+  {
+    "chunk_id": 22,
+    "question": "How does BimSolar's simulation capabilities demonstrate the benefits of a prediction problem?"
+  },
+  {
+    "chunk_id": 22,
+    "question": "Why is direct energy production estimation without historical data considered a valuable feature?"
+  },
+  {
+    "chunk_id": 22,
+    "question": "In what application can machine learning or deep learning models, utilizing prediction, replace existing tools?"
+  },
+  {
+    "chunk_id": 23,
+    "question": "What key aspects of the newly curated dataset are explored in Chapter 4?"
+  },
+  {
+    "chunk_id": 23,
+    "question": "What is the primary focus of the modeling phase discussed in this chapter?"
+  },
+  {
+    "chunk_id": 23,
+    "question": "What are the main sections covered in Chapter 4 of the novel approach?"
+  },
+  {
+    "chunk_id": 25,
+    "question": "What is the primary purpose of incorporating photovoltaic (PV) data into a dataset?"
+  },
+  {
+    "chunk_id": 25,
+    "question": "What specific characteristics of solar panels are intended to be incorporated as new features in the dataset?"
+  },
+  {
+    "chunk_id": 25,
+    "question": "List and describe the key parameters used to characterize a solar panel, as explained in the text."
+  },
+  {
+    "chunk_id": 25,
+    "question": "Which specific solar panel parameters were chosen to be added to the dataset for predicting energy production?"
+  },
+  {
+    "chunk_id": 25,
+    "question": "What are the Standard Test Conditions (STC) under which the 'Peak power' of a solar panel is measured?"
+  },
+  {
+    "chunk_id": 25,
+    "question": "What does NOCT stand for, and what does it represent in the context of solar cell temperature?"
+  },
+  {
+    "chunk_id": 25,
+    "question": "What challenge is typically associated with obtaining datasheets for photovoltaic panels, and what convenient solution was discovered?"
+  },
+  {
+    "chunk_id": 25,
+    "question": "How does the BimSolar software aid in the process of accumulating PV panel data?"
+  },
+  {
+    "chunk_id": 25,
+    "question": "What kind of information and capabilities does the BimSolar library offer for navigating PV panel models?"
+  },
+  {
+    "chunk_id": 25,
+    "question": "How many solar panels in total were selected for the dataset, and from which specific series were they chosen?"
+  },
+  {
+    "chunk_id": 25,
+    "question": "What was the rationale behind selecting a diverse set of solar panels for the dataset?"
+  },
+  {
+    "chunk_id": 26,
+    "question": "What is the primary role of Building Information Modeling (BIM) data in the dataset?"
+  },
+  {
+    "chunk_id": 26,
+    "question": "What specific information about building surfaces is required for determining solar panel installation?"
+  },
+  {
+    "chunk_id": 26,
+    "question": "Why is it important to know both the area of the surface and whether solar panels will be on the roof or facade?"
+  },
+  {
+    "chunk_id": 26,
+    "question": "What is the main method used to acquire the necessary BIM data, and what type of files are involved?"
+  },
+  {
+    "chunk_id": 26,
+    "question": "What alternative methods can be used to acquire building data if IFC files are unavailable?"
+  },
+  {
+    "chunk_id": 26,
+    "question": "How do drones contribute to data acquisition for creating 3D models when IFC files are not accessible?"
+  },
+  {
+    "chunk_id": 26,
+    "question": "Which specific drone models are mentioned as examples for capturing building data for photogrammetry?"
+  },
+  {
+    "chunk_id": 26,
+    "question": "What is a 'point cloud' in the context of drone-generated building data?"
+  },
+  {
+    "chunk_id": 26,
+    "question": "What was the biggest challenge encountered when working with IFC files for data extraction?"
+  },
+  {
+    "chunk_id": 26,
+    "question": "Why did the lack of standardization in IFC files necessitate manual data extraction?"
+  },
+  {
+    "chunk_id": 26,
+    "question": "What was the primary difficulty associated with processing photogrammetry data from drones?"
+  },
+  {
+    "chunk_id": 26,
+    "question": "Why was the photogrammetry method not utilized in the described work despite being a viable option?"
+  },
+  {
+    "chunk_id": 27,
+    "question": "What is the primary reason for the diverse nature of the collected dataset?"
+  },
+  {
+    "chunk_id": 27,
+    "question": "Which specific cities in France are included in the dataset to ensure geographical diversity?"
+  },
+  {
+    "chunk_id": 27,
+    "question": "How does varying the number of cities in the dataset help capture different meteorological data distributions?"
+  },
+  {
+    "chunk_id": 27,
+    "question": "What are the sequential stages or parameters involved in the pipeline for generating synthetic data, starting from IFC files?"
+  },
+  {
+    "chunk_id": 27,
+    "question": "What specific types of solar panels and exploitation rates are considered during the data generation process?"
+  },
+  {
+    "chunk_id": 27,
+    "question": "What is the theoretical maximum number of data rows that could be generated for a single IFC file based on the given parameters?"
+  },
+  {
+    "chunk_id": 27,
+    "question": "Why was the actual generated dataset size significantly less than its theoretical maximum?"
+  },
+  {
+    "chunk_id": 27,
+    "question": "Describe the overall structure of the synthetic dataset in terms of its total rows, columns, and the distribution of data categories among those columns."
+  },
+  {
+    "chunk_id": 28,
+    "question": "What is the primary focus of the 'Modeling' section in this work?"
+  },
+  {
+    "chunk_id": 28,
+    "question": "Why is it considered critical to develop energy-efficient and lightweight machine learning models?"
+  },
+  {
+    "chunk_id": 28,
+    "question": "Which third-party library is utilized to measure carbon emissions and energy usage for the machine learning models?"
+  },
+  {
+    "chunk_id": 28,
+    "question": "How does the CodeCarbon library calculate total CO2 emissions?"
+  },
+  {
+    "chunk_id": 28,
+    "question": "What were the key findings of Luc\u00eda Bouza et al. regarding the accuracy and trade-offs of using the CodeCarbon tool?"
+  },
+  {
+    "chunk_id": 28,
+    "question": "What are some of the known limitations of the CodeCarbon library when tracking emissions?"
+  },
+  {
+    "chunk_id": 28,
+    "question": "How does the data structuring for the prediction problem differ from the forecasting problem described in the text?"
+  },
+  {
+    "chunk_id": 28,
+    "question": "What steps are taken to prepare the dataset before it is fed to the machine learning models for the prediction problem?"
+  },
+  {
+    "chunk_id": 28,
+    "question": "Which specific machine learning models were employed for predicting solar panel energy production?"
+  },
+  {
+    "chunk_id": 28,
+    "question": "How does the Random Forest algorithm reduce overfitting and improve generalization?"
+  },
+  {
+    "chunk_id": 28,
+    "question": "Explain the core principle behind how the Gradient Boosting Regressor iteratively builds its strong predictive model."
+  },
+  {
+    "chunk_id": 28,
+    "question": "What are the key features and advantages that make XGBoost an optimized and popular gradient boosting library?"
+  },
+  {
+    "chunk_id": 29,
+    "question": "What machine learning and deep learning models were trained on the synthetic dataset?"
+  },
+  {
+    "chunk_id": 29,
+    "question": "What metrics were used to evaluate the performance of the models?"
+  },
+  {
+    "chunk_id": 29,
+    "question": "In addition to predictive performance, what other aspect was measured during model training?"
+  },
+  {
+    "chunk_id": 29,
+    "question": "Which two models outperformed the others across all predictive performance metrics?"
+  },
+  {
+    "chunk_id": 29,
+    "question": "What were the specific MSE, R\u00b2, MAE, and MAPE values for the XGBoost model, which achieved the best overall performance?"
+  },
+  {
+    "chunk_id": 29,
+    "question": "Which model proved to be the most energy-efficient during training, and what were its training duration, carbon emissions, and energy consumption?"
+  },
+  {
+    "chunk_id": 29,
+    "question": "Which model was identified as the least energy-efficient, and what were its corresponding training metrics?"
+  },
+  {
+    "chunk_id": 29,
+    "question": "What specific problem was observed with the XGBoost model's predictions, despite its high accuracy in tracking actual values?"
+  },
+  {
+    "chunk_id": 29,
+    "question": "Why does the XGBoost model sometimes produce negative values for energy production?"
+  },
+  {
+    "chunk_id": 29,
+    "question": "How can the issue of negative energy production predictions from the XGBoost model be resolved?"
+  },
+  {
+    "chunk_id": 29,
+    "question": "What were the sizes of the training and test splits of the dataset used for model development?"
+  },
+  {
+    "chunk_id": 30,
+    "question": "What is the primary objective of exposing the models to different study case scenarios?"
+  },
+  {
+    "chunk_id": 30,
+    "question": "How many study case scenarios are there, and which buildings are included?"
+  },
+  {
+    "chunk_id": 30,
+    "question": "How is energy production data acquired for the buildings in the study cases, especially when real data is unavailable?"
+  },
+  {
+    "chunk_id": 30,
+    "question": "What software is utilized to estimate energy production for buildings lacking real data?"
+  },
+  {
+    "chunk_id": 30,
+    "question": "What specific task will the models perform regarding the solar panels on the study case buildings?"
+  },
+  {
+    "chunk_id": 30,
+    "question": "How will the generalization ability of the models to new and unseen data be validated?"
+  },
+  {
+    "chunk_id": 31,
+    "question": "What is the initial step taken to study the CESI building's energy production?"
+  },
+  {
+    "chunk_id": 31,
+    "question": "What are the key specifications of the solar panel installation on the CESI building?"
+  },
+  {
+    "chunk_id": 31,
+    "question": "Which predictive models were compared against BimSolar's energy production predictions for the CESI building?"
+  },
+  {
+    "chunk_id": 31,
+    "question": "What performance metrics were used to evaluate the energy prediction models on the CESI building data?"
+  },
+  {
+    "chunk_id": 31,
+    "question": "Which model demonstrated the best performance in predicting energy production for the CESI building, and what metrics support this conclusion?"
+  },
+  {
+    "chunk_id": 31,
+    "question": "How did the XGBoost model's predictions align with BimSolar's simulated production for the CESI building?"
+  },
+  {
+    "chunk_id": 32,
+    "question": "When did the Les compagnons du devoir building in Strasbourg start producing energy from solar panels?"
+  },
+  {
+    "chunk_id": 32,
+    "question": "What software was used to create a 3D model of the Les compagnons du devoir building and place the solar panels?"
+  },
+  {
+    "chunk_id": 32,
+    "question": "How many solar panels were installed on the roof of the Les compagnons du devoir building, and what is their individual power capacity?"
+  },
+  {
+    "chunk_id": 32,
+    "question": "What was the purpose of applying predictive models to the Les compagnons du devoir building's solar panels?"
+  },
+  {
+    "chunk_id": 32,
+    "question": "Which specific machine learning model showed the best performance for predicting energy production at the Les compagnons du devoir building?"
+  },
+  {
+    "chunk_id": 32,
+    "question": "What were the key performance metrics used to evaluate the predictive models on the Les compagnons du devoir building?"
+  },
+  {
+    "chunk_id": 32,
+    "question": "How did the Decision Tree model's R\u00b2 score compare to other models for the Les compagnons du devoir building?"
+  },
+  {
+    "chunk_id": 32,
+    "question": "What did the comparison figure illustrate about the Decision Tree model's predictions versus Bim-Solar's real production data for the Les compagnons du devoir building?"
+  },
+  {
+    "chunk_id": 33,
+    "question": "Where is the CCCA-BTP building located, and what is its primary feature related to energy production?"
+  },
+  {
+    "chunk_id": 33,
+    "question": "How many solar panels are installed on the CCCA-BTP building, and why is this number notable?"
+  },
+  {
+    "chunk_id": 33,
+    "question": "What is the main objective of applying the models to the CCCA-BTP building?"
+  },
+  {
+    "chunk_id": 33,
+    "question": "How is the performance of the prediction models assessed for the CCCA-BTP building?"
+  },
+  {
+    "chunk_id": 33,
+    "question": "Which model demonstrated the best performance for the CCCA-BTP building across the evaluated metrics?"
+  },
+  {
+    "chunk_id": 33,
+    "question": "What were the key performance metrics (MSE, R\u00b2, MAE, MAPE) for the best-performing model on the CCCA-BTP building?"
+  },
+  {
+    "chunk_id": 33,
+    "question": "What does the figure comparing XGBoost predictions to BimSolar's real production indicate about the model's accuracy?"
+  },
+  {
+    "chunk_id": 34,
+    "question": "What was the primary focus of Chapter 4.6's conclusion?"
+  },
+  {
+    "chunk_id": 34,
+    "question": "How was the synthetic dataset used in this study generated?"
+  },
+  {
+    "chunk_id": 34,
+    "question": "For what specific prediction problem was the synthetic data structured?"
+  },
+  {
+    "chunk_id": 34,
+    "question": "Which machine learning models were employed to predict the energy production of solar panels?"
+  },
+  {
+    "chunk_id": 34,
+    "question": "Why was the measurement of carbon emissions during model training highlighted as important?"
+  },
+  {
+    "chunk_id": 34,
+    "question": "Which models were identified as top performers, and what were their key achievements?"
+  },
+  {
+    "chunk_id": 34,
+    "question": "How was the generalization capability of the models validated?"
+  },
+  {
+    "chunk_id": 34,
+    "question": "What did the strong predictive capabilities of the models across various scenarios indicate?"
+  },
+  {
+    "chunk_id": 35,
+    "question": "What are the three main sections of the web application?"
+  },
+  {
+    "chunk_id": 35,
+    "question": "What is the primary function of the data hub section?"
+  },
+  {
+    "chunk_id": 35,
+    "question": "What kind of forecasting does the prediction section enable?"
+  },
+  {
+    "chunk_id": 35,
+    "question": "What insights are provided in the decarbonization section?"
+  },
+  {
+    "chunk_id": 35,
+    "question": "How is the web application designed to enhance the user experience?"
+  },
+  {
+    "chunk_id": 36,
+    "question": "What is the primary function of the data hub section?"
+  },
+  {
+    "chunk_id": 36,
+    "question": "What geographical and temporal inputs are required in the data hub to generate meteorological data?"
+  },
+  {
+    "chunk_id": 36,
+    "question": "How does the backend system obtain meteorological data once the inputs are provided?"
+  },
+  {
+    "chunk_id": 36,
+    "question": "What options are available for users to specify solar panel information?"
+  },
+  {
+    "chunk_id": 36,
+    "question": "What specific solar panel specifications must a user provide when 'Use Manual Mode' is enabled?"
+  },
+  {
+    "chunk_id": 36,
+    "question": "What installation locations can a user select for solar panels on a building?"
+  },
+  {
+    "chunk_id": 36,
+    "question": "What information regarding the installation area and utilization rate does the user need to provide?"
+  },
+  {
+    "chunk_id": 36,
+    "question": "What happens after the user clicks the 'Generate Data' button in the data hub section?"
+  },
+  {
+    "chunk_id": 36,
+    "question": "How is the generated meteorological and solar panel data presented to the user?"
+  },
+  {
+    "chunk_id": 36,
+    "question": "What is the next step for a user after generating data in the data hub section?"
+  },
+  {
+    "chunk_id": 37,
+    "question": "What is the primary function of the prediction section?"
+  },
+  {
+    "chunk_id": 37,
+    "question": "What configuration options are available to users within the prediction section for generating energy estimates?"
+  },
+  {
+    "chunk_id": 37,
+    "question": "How can users choose the timeframe for which they want to generate solar panel energy production estimates?"
+  },
+  {
+    "chunk_id": 37,
+    "question": "What happens after a user clicks the 'Predict' button?"
+  },
+  {
+    "chunk_id": 37,
+    "question": "What types of visualizations are used to display daily versus monthly energy production predictions?"
+  },
+  {
+    "chunk_id": 37,
+    "question": "How can users compare the energy production between different solar panels in this section?"
+  },
+  {
+    "chunk_id": 37,
+    "question": "What is the process for comparing multiple solar panels within the application?"
+  },
+  {
+    "chunk_id": 38,
+    "question": "What initial information do users need to provide in the decarbonization section?"
+  },
+  {
+    "chunk_id": 38,
+    "question": "What metrics are calculated and displayed in the decarbonization section based on user inputs?"
+  },
+  {
+    "chunk_id": 38,
+    "question": "What does the first graph in the decarbonization section assess and how are efficiency levels categorized?"
+  },
+  {
+    "chunk_id": 38,
+    "question": "How do the graphs in the decarbonization section illustrate the impact of installing solar panels (PV) on energy and emission performance?"
+  },
+  {
+    "chunk_id": 38,
+    "question": "What does the second graph in the decarbonization section display regarding the building's environmental impact?"
+  },
+  {
+    "chunk_id": 38,
+    "question": "How is the decarbonization rate defined in the context of the application?"
+  },
+  {
+    "chunk_id": 38,
+    "question": "What actions can a user take to increase the decarbonization rate of a building?"
+  },
+  {
+    "chunk_id": 39,
+    "question": "What are the primary functionalities offered by the presented web application?"
+  },
+  {
+    "chunk_id": 39,
+    "question": "How is the web application designed to guide users and ensure a positive experience?"
+  },
+  {
+    "chunk_id": 39,
+    "question": "What valuable insights can users gain by utilizing the application's features?"
+  },
+  {
+    "chunk_id": 39,
+    "question": "What is the ultimate goal or impact of the web application on user decision-making and energy practices?"
+  },
+  {
+    "chunk_id": 40,
+    "question": "What was the main objective of the internship project regarding photovoltaic systems?"
+  },
+  {
+    "chunk_id": 40,
+    "question": "How did the project address the limitations of Youssef & Ilyas's research?"
+  },
+  {
+    "chunk_id": 40,
+    "question": "What tools and methods were used to generate a larger and more diverse dataset for the AI tool?"
+  },
+  {
+    "chunk_id": 40,
+    "question": "What APIs were utilized to automate the data collection process for the project?"
+  },
+  {
+    "chunk_id": 40,
+    "question": "Explain the shift from a forecasting problem to a prediction problem and its advantages for the AI tool."
+  },
+  {
+    "chunk_id": 40,
+    "question": "Why was the CodeCarbon library integrated into the project's methodology?"
+  },
+  {
+    "chunk_id": 40,
+    "question": "Which machine learning models were evaluated, and what performance metrics were used?"
+  },
+  {
+    "chunk_id": 40,
+    "question": "Which specific machine learning models demonstrated the best performance in terms of accuracy and energy efficiency?"
+  },
+  {
+    "chunk_id": 40,
+    "question": "How was the predictive capability of the models validated in real-world scenarios?"
+  },
+  {
+    "chunk_id": 40,
+    "question": "What are the primary areas for future research and development to expand the model's dataset and improve its generalizability?"
+  },
+  {
+    "chunk_id": 40,
+    "question": "What additional factors are proposed to be incorporated into the model to enhance its predictive power and practical applicability?"
+  },
+  {
+    "chunk_id": 41,
+    "question": "What is the primary focus of the International Energy Agency's 'Electricity 2024' report?"
+  },
+  {
+    "chunk_id": 41,
+    "question": "Which institution is behind the 'Fit for 55' initiative?"
+  },
+  {
+    "chunk_id": 41,
+    "question": "What kind of systems does Visbox, Inc. provide, according to reference [4]?"
+  },
+  {
+    "chunk_id": 41,
+    "question": "Who authored the 1997 paper on 'Long short-term memory'?"
+  },
+  {
+    "chunk_id": 41,
+    "question": "What is the purpose of the NASA POWER initiative?"
+  },
+  {
+    "chunk_id": 41,
+    "question": "What is the title of the comprehensive analysis by Anand et al. regarding small-scale building integrated photovoltaic systems?"
+  },
+  {
+    "chunk_id": 41,
+    "question": "What types of data are provided by Solcast according to reference [23]?"
+  },
+  {
+    "chunk_id": 41,
+    "question": "What is the function of 'CodeCarbon' as described in reference [24]?"
+  },
+  {
+    "chunk_id": 41,
+    "question": "What topic is addressed in the 2023 guide and review by Bouza, Bugeau, and Lannelongue?"
+  },
+  {
+    "chunk_id": 41,
+    "question": "What is the title of Chen and Guestrin's 2016 paper on XGBoost?"
+  }
+]
