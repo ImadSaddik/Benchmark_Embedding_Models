@@ -1,0 +1,366 @@
+[
+  {
+    "chunk_id": 0,
+    "question": "What is the title and primary focus of the report?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "Who are the key authors and reviewers of \"The GenAI Divide\" report?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "What project or initiative is responsible for the AI implementation research presented in the report?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "What research period did the preliminary findings from AI implementation cover?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "What methodologies were used to gather data for this report?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "How many publicly disclosed AI initiatives were systematically reviewed for the report?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "How many organizations and senior leaders participated in structured interviews and surveys, respectively?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "What is the main concept discussed in the section \"The Wrong Side of the GenAI Divide\"?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "According to the report, what is the primary reason for AI pilots stalling?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "Which two groups are highlighted in the report for their success in crossing the GenAI Divide?"
+  },
+  {
+    "chunk_id": 0,
+    "question": "What is the purpose of anonymizing company-specific data and quotes in the report?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "What surprising result has been uncovered regarding enterprise investment in GenAI?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "What is the 'GenAI Divide' and how does it describe the outcomes of GenAI investments?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "How widely adopted are tools like ChatGPT and Copilot, and what is their primary impact?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "Why are enterprise-grade GenAI systems, custom or vendor-sold, being rejected by most organizations?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "What are the four patterns that define the GenAI Divide?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "According to the report, what is the core barrier to scaling GenAI systems?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "What distinguishes successful buyers and vendors in terms of their approach to GenAI implementation?"
+  },
+  {
+    "chunk_id": 1,
+    "question": "What measurable impacts are organizations that have crossed the GenAI Divide beginning to see?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What is the primary characteristic of organizations on the \"wrong side of the GenAI Divide\"?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "According to the text, which two sectors are showing clear signs of structural disruption due to GenAI?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What are the five observable indicators used to create the composite AI Market Disruption Index?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What is the typical deployment rate for custom enterprise AI tools, and how does this compare to general-purpose LLMs?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "Why do generic LLM chatbots succeed in reaching implementation compared to embedded or task-specific GenAI tools?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What is the 'shadow AI economy' and how prevalent is employee use of personal AI tools compared to official company subscriptions?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "How does the 'shadow AI economy' demonstrate a way for individuals to successfully cross the GenAI Divide?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "Which functional areas receive the largest share of GenAI budget allocation, and why is this often the case?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What challenge do back-office functions like legal and procurement face when trying to justify GenAI investments?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "Beyond product quality, what factors are decisive in enterprise purchase decisions for GenAI solutions?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What are two common myths about GenAI in the enterprise debunked by the research?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "How do mid-market companies compare to larger enterprises in terms of the timeline from GenAI pilot to full implementation?"
+  },
+  {
+    "chunk_id": 2,
+    "question": "What is considered the 'real' thing holding back AI implementation, according to the research, rather than model quality or data issues?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "What is identified as the primary factor preventing organizations from scaling GenAI pilots?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "According to the survey, what were the top two barriers to scaling AI in the enterprise that users most frequently encountered?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "Why do individual knowledge workers, who widely adopt consumer AI tools, often distrust or find enterprise GenAI systems unreliable for mission-critical tasks?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "What three consistent reasons did users give for preferring generic LLM interfaces like ChatGPT over integrated enterprise GenAI tools?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "How do the limitations of consumer LLM interfaces, such as forgetting context and inability to learn, contribute to the 'learning gap' that defines the GenAI Divide for core workflows?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "For what types of tasks do enterprise users show a clear preference for AI, and for what types do they strongly prefer human involvement?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "What are the defining characteristics of 'Agentic AI' systems, and how are they designed to address the learning gap in enterprise GenAI?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "Based on the provided positioning matrix, which types of GenAI tools fall into the categories of 'High Memory / Learning' capability?"
+  },
+  {
+    "chunk_id": 3,
+    "question": "What is the 'GenAI Divide' as it manifests at the user level, and how does 'shadow usage' by employees contribute to this divide?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What common approach do organizations on the right side of the GenAI Divide share?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "According to the text, what three key characteristics define the most successful GenAI startups?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What distinguishes successful GenAI organizations and vendors from those that fail?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What are the top two requirements executives have for winning AI systems, in terms of percentage?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "According to interviewed executives, what is the most important factor when selecting GenAI vendors?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "Beyond content generation, what do successful GenAI systems need to do to cross the GenAI Divide?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "Were concerns about workforce impact high or low among users regarding GenAI automation?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "Despite conventional wisdom, were most enterprise teams willing to train AI systems?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What is the recommended 'winning playbook' for startups to successfully cross the GenAI Divide?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What two traits characterized successful GenAI tools in terms of configuration burden and value?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "Name two successful categories for GenAI tools mentioned in the text that gained adoption."
+  },
+  {
+    "chunk_id": 4,
+    "question": "According to the 'Exhibit: How leaders discover GenAI solutions,' what are the top two primary discovery channels for GenAI solutions?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "Why is the window for crossing the GenAI Divide described as rapidly closing?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What types of AI and frameworks are predicted to define which vendors succeed in crossing the GenAI Divide?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "How do frameworks like Model Context Protocol (MCP) and NANDA contribute to the emerging Agentic Web?"
+  },
+  {
+    "chunk_id": 4,
+    "question": "What makes switching costs prohibitive for enterprises once they invest in a GenAI system that learns and adapts?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What defines the approach of organizations that successfully cross the GenAI Divide in their AI procurement?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What is identified as the dominant barrier to crossing the GenAI Divide?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "How do the deployment success rates of strategic partnerships compare to internal development efforts for GenAI implementation?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What specific buyer practices enable organizations to successfully cross the GenAI Divide?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "Where do organizations typically discover the highest ROI for GenAI implementations?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What types of external cost reductions contribute to the ROI achieved through back-office GenAI automation?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "How does GenAI's workforce impact manifest, according to the analysis?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "In which specific industries is a significant reduction in hiring volumes anticipated due to GenAI impact?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What skill is consistently emphasized as a fundamental capability requirement in GenAI-influenced hiring strategies?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What is the concept of the 'agentic web' and how is it expected to transform business processes?"
+  },
+  {
+    "chunk_id": 5,
+    "question": "What is the latent automation exposure in the U.S. labor market, as projected by MIT's Project Iceberg analysis?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What three things do organizations that successfully cross the GenAI Divide do differently?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What type of systems are forward-thinking organizations experimenting with to enhance GenAI capabilities?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is the 'Agentic Web' and how does it fundamentally change the enterprise stack?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "How does the Agentic Web shift the paradigm of action decentralization?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What are some early examples of infrastructure supporting the Agentic Web?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "According to the text, what will be the key factors for success in the next wave of GenAI adoption?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What opportunities does the rise of agentic capabilities and prosumer adoption create for vendors?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What is the recommended path forward for organizations currently trapped on the wrong side of the GenAI Divide?"
+  },
+  {
+    "chunk_id": 6,
+    "question": "What types of choices must organizations make to cross the GenAI Divide?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What is Project NANDA and what organizations does it build upon?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What is the primary focus of Project NANDA's research?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What were the three main components of the research methodology used in this study?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "How was 'success' defined for AI initiatives within the research methodology?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What are some of the sample limitations identified in the research?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What methodological constraints were noted regarding industry disruption scores and build vs. buy percentages?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What external factor affecting AI adoption was not fully addressed by the research?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What two main semi-structured protocols were used as research instruments?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What was the primary focus of the Executive Interview Questionnaire?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "Which sections are included in the Executive Interview Questionnaire?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What types of questions were asked in the 'Pilot to Scale' section of the Executive Interview Questionnaire?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What was the focus of the Functional Leader / User Interview Questionnaire?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "What specific topics were explored in the 'Adoption Barriers' section of the Functional Leader / User Interview Questionnaire?"
+  },
+  {
+    "chunk_id": 7,
+    "question": "How was ROI impact measured in the research methodology?"
+  }
+]
