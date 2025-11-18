@@ -59,3 +59,12 @@ Now, install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+
+You will also need to generate API keys to use Gemini and OpenAI models. Put the keys in a `.env` file in the root of the repository as follows:
+
+```text
+GOOGLE_API_KEY=""
+OPENAI_API_KEY=""
+```
+
+If you prefer not to work with closed-source models, there are notebooks available that rely exclusively on open-source models.
