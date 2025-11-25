@@ -74,3 +74,28 @@ OPENAI_API_KEY=""
 ```
 
 If you prefer not to work with closed-source models, there are notebooks available that rely exclusively on open-source models.
+
+## Surprising findings
+
+### Universal semantic space
+
+I have discovered that multilingual (trained on multiple languages) embedding models are amazing. They doen’t just match words, they actually learns the abstract meaning of the text.
+
+I tested this by translating the original dataset from English to Arabic. The 10 questions I picked from both versions of the dataset had almost identical vector representations. The following figure shows the exact text in both languages for two points that were very close to each other. If you can read Arabic, you will see how well the shared embeddings capture meaning across languages.
+
+![t-SNE visualization of English and Arabic questions showing close vector representations for translations](./images/english_arabic_concept_same_location_vector_space_with_sentences.png)
+*Figure 5: English and Arabic translations occupy nearly the same location in the embedding space, demonstrating the power of multilingual models.*
+
+### Translation not required
+
+My tests show that you can store documents in one language and let users search in their own language, and the performance stays almost the same. But you must use a strong multilingual embedding model. It’s fascinating.
+
+![Benchmark results for cross-language retrieval: Arabic questions with English documents and vice versa](./images/four_language_combinationas_benchmark_results_3_and_4.png)
+*Figure 6: Cross-language retrieval benchmarks. Arabic questions with English documents (left), English questions with Arabic documents (right). Top multilingual models perform well in both directions.*
+
+Be careful when choosing a model. If it was not trained on multiple languages, its accuracy will drop close to zero when you use it on a language it has never seen.
+
+Many people use the small [all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) model. It has been downloaded more than **140 million** times, which is astonishing. However, if you use it on a language it was not trained on, you may be surprised by how poor the results are. So always check which languages the embedding model supports.
+
+![Benchmark results showing poor performance of all-MiniLM-L6-v2 on Arabic](./images/four_language_combinationas_benchmark_results_2.png)
+*Figure 7: The all-MiniLM-L6-v2 model performs well on English but fails on Arabic, highlighting the importance of multilingual training.*
