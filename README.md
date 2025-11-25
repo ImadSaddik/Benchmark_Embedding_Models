@@ -99,3 +99,14 @@ Many people use the small [all-MiniLM-L6-v2](https://huggingface.co/sentence-tra
 
 ![Benchmark results showing poor performance of all-MiniLM-L6-v2 on Arabic](./images/four_language_combinationas_benchmark_results_2.png)
 *Figure 7: The all-MiniLM-L6-v2 model performs well on English but fails on Arabic, highlighting the importance of multilingual training.*
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Need help?
+
+You can reach me through:
+
+- **LinkedIn** – [Connect with me](https://www.linkedin.com/in/imadsaddik/).
+- **Email** – [simad3647@gmail.com](mailto:simad3647@gmail.com).
