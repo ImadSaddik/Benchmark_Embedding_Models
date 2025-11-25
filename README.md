@@ -6,10 +6,16 @@ Welcome to the repository! This project is designed to help you create a high-qu
 
 You will evaluate the models using various metrics, including [MRR](https://amenra.github.io/ranx/metrics/#mean-reciprocal-rank), [Recall@K](https://amenra.github.io/ranx/metrics/#recall), and [NDCG@K](https://amenra.github.io/ranx/metrics/#ndcg). Additionally, you will apply [statistical tests](https://en.wikipedia.org/wiki/Statistical_hypothesis_test) to determine whether the differences between models are statistically significant.
 
-By combining these metrics and tests, you can confidently identify the best embedding model for your specific use case. Below is an example comparison of seven models on a custom dataset:
+By combining these metrics and tests, you can confidently identify the best embedding model for your specific use case. The following figures show a comparison of seven models on three datasets:
 
-![Benchmark results](./images/benchmark_results.png)
-*Figure 1: Comparison of seven embedding models on a custom dataset.*
+![Benchmark results](./images/benchmark_results_english.png)
+*Figure 1: Comparison of seven embedding models on the english dataset.*
+
+![Benchmark results](./images/benchmark_results_arabic.png)
+*Figure 2: Comparison of seven embedding models on the arabic dataset.*
+
+![Benchmark results](./images/benchmark_results_arabic_english.png)
+*Figure 3: Comparison of seven embedding models on the merged arabic and english dataset.*
 
 ## What is in this repository?
 
