@@ -90,14 +90,14 @@ I tested this by translating the original dataset from English to Arabic. The 10
 
 My tests show that you can store documents in one language and let users search in their own language, and the performance stays almost the same. But you must use a strong multilingual embedding model. It’s fascinating.
 
-![Benchmark results for cross-language retrieval: Arabic questions with English documents and vice versa](./images/four_language_combinationas_benchmark_results_3_and_4.png)
+![Benchmark results for cross-language retrieval: Arabic questions with English documents and vice versa](./images/four_language_combinations_benchmark_results_3_and_4.png)
 *Figure 6: Cross-language retrieval benchmarks. Arabic questions with English documents (left), English questions with Arabic documents (right). Top multilingual models perform well in both directions.*
 
 Be careful when choosing a model. If it was not trained on multiple languages, its accuracy will drop close to zero when you use it on a language it has never seen.
 
 Many people use the small [all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) model. It has been downloaded more than **140 million** times, which is astonishing. However, if you use it on a language it was not trained on, you may be surprised by how poor the results are. So always check which languages the embedding model supports.
 
-![Benchmark results showing poor performance of all-MiniLM-L6-v2 on Arabic](./images/four_language_combinationas_benchmark_results_2.png)
+![Benchmark results showing poor performance of all-MiniLM-L6-v2 on Arabic](./images/four_language_combinations_benchmark_results_2.png)
 *Figure 7: The all-MiniLM-L6-v2 model performs well on English but fails on Arabic, highlighting the importance of multilingual training.*
 
 ## License
